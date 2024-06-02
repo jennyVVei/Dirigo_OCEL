@@ -13,7 +13,7 @@ This is the supplementary repository for the paper Dirigo: A Method to Generate 
 - csv_to_sqlite.ipynb: A Jupyter notebook detailing the process of transforming CSV files into an OCEL log in SQLite Database format.
 - CSVs_to_OCEL_log_schema.ipynb: A Jupyter notebook for data preprocessing to generate the OCEL log following the _Dirigo_ schema.
 
-### 3.Quality-Criteria-Queries:
+### 3. Quality-Criteria-Queries:
 - createdb.sql: Contains queries for generating a sample OCEL log as per the Dirigo schema.
 - QC queries.sql: Provides data queries for evaluating each proposed quality criterion.
 
