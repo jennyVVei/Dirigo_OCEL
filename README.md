@@ -5,7 +5,7 @@ This is the supplementary repository for the paper Dirigo: A Method to Generate 
 ## This repository includes three main sections:
 
 ### 1. CPN-Models:
-- object_initialise: Contains a CPN model for initializing objects involved in the process. The resulting object tables for each type include both static and dynamic attributes, with dynamic attributes initially set to NULL or 0.0.
+- object_initialise: Contains a CPN model for initialising objects involved in the process. The resulting object tables for each type include both static and dynamic attributes, with dynamic attributes initially set to NULL or 0.0.
 - CargoPickupBP: Features a CPN model for capturing the cargo pickup process and a collection of CSV files. These files include an object table for each object type, an event table for each event type, and E2O (Event-to-Object) and O2O (Object-to-Object) relations tables.
 
 ### 2. OCEL-Log:
