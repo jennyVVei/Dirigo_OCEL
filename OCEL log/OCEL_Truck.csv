@@ -1,0 +1,1843 @@
+object_id,timestamp,ocel_changed_field,Pickup Plan ID,Cargo ID,LPT,Axles,Scheduled Pickup Weight,Truck Status,Truck Weight
+tr43,2024-03-04 00:00:00,,,,841DKJ,6,0.0,Available,0.0
+tr5,2024-03-04 00:00:00,,,,630IKM,4,0.0,Available,0.0
+tr1,2024-03-04 00:00:00,,,,582MPM,6,0.0,Available,0.0
+tr37,2024-03-04 00:00:00,,,,266LRD,4,0.0,Available,0.0
+tr26,2024-03-04 00:00:00,,,,657JXX,2,0.0,Available,0.0
+tr31,2024-03-04 00:00:00,,,,565CHS,2,0.0,Available,0.0
+tr4,2024-03-04 00:00:00,,,,920MDU,2,0.0,Available,0.0
+tr3,2024-03-04 00:00:00,,,,518VBF,6,0.0,Available,0.0
+tr38,2024-03-04 00:00:00,,,,163TVX,4,0.0,Available,0.0
+tr33,2024-03-04 00:00:00,,,,104HLO,6,0.0,Available,0.0
+tr21,2024-03-04 00:00:00,,,,224VVL,6,0.0,Available,0.0
+tr11,2024-03-04 00:00:00,,,,835IPX,4,0.0,Available,0.0
+tr46,2024-03-04 00:00:00,,,,947VEO,6,0.0,Available,0.0
+tr41,2024-03-04 00:00:00,,,,121EDQ,2,0.0,Available,0.0
+tr18,2024-03-04 00:00:00,,,,855BXS,6,0.0,Available,0.0
+tr29,2024-03-04 00:00:00,,,,663DSL,6,0.0,Available,0.0
+tr15,2024-03-04 00:00:00,,,,226EML,2,0.0,Available,0.0
+tr36,2024-03-04 00:00:00,,,,583LHJ,6,0.0,Available,0.0
+tr45,2024-03-04 00:00:00,,,,716GFJ,6,0.0,Available,0.0
+tr24,2024-03-04 00:00:00,,,,937SKC,2,0.0,Available,0.0
+tr9,2024-03-04 00:00:00,,,,077KTB,6,0.0,Available,0.0
+tr42,2024-03-04 00:00:00,,,,954HVO,2,0.0,Available,0.0
+tr25,2024-03-04 00:00:00,,,,036ETH,4,0.0,Available,0.0
+tr8,2024-03-04 00:00:00,,,,286EVS,4,0.0,Available,0.0
+tr48,2024-03-04 00:00:00,,,,771JKQ,2,0.0,Available,0.0
+tr39,2024-03-04 00:00:00,,,,875GWM,4,0.0,Available,0.0
+tr22,2024-03-04 00:00:00,,,,301UQT,6,0.0,Available,0.0
+tr40,2024-03-04 00:00:00,,,,545QEP,4,0.0,Available,0.0
+tr34,2024-03-04 00:00:00,,,,452KLN,6,0.0,Available,0.0
+tr17,2024-03-04 00:00:00,,,,449PKI,2,0.0,Available,0.0
+tr13,2024-03-04 00:00:00,,,,456PXR,2,0.0,Available,0.0
+tr49,2024-03-04 00:00:00,,,,422PGW,2,0.0,Available,0.0
+tr30,2024-03-04 00:00:00,,,,454ULK,6,0.0,Available,0.0
+tr20,2024-03-04 00:00:00,,,,246HHS,4,0.0,Available,0.0
+tr14,2024-03-04 00:00:00,,,,649IMV,4,0.0,Available,0.0
+tr44,2024-03-04 00:00:00,,,,786DDP,2,0.0,Available,0.0
+tr35,2024-03-04 00:00:00,,,,281CBY,2,0.0,Available,0.0
+tr27,2024-03-04 00:00:00,,,,684CXA,6,0.0,Available,0.0
+tr2,2024-03-04 00:00:00,,,,126SRU,4,0.0,Available,0.0
+tr12,2024-03-04 00:00:00,,,,469JJD,4,0.0,Available,0.0
+tr19,2024-03-04 00:00:00,,,,768BNN,2,0.0,Available,0.0
+tr28,2024-03-04 00:00:00,,,,315JVB,4,0.0,Available,0.0
+tr50,2024-03-04 00:00:00,,,,406FCV,4,0.0,Available,0.0
+tr32,2024-03-04 00:00:00,,,,985GLO,2,0.0,Available,0.0
+tr10,2024-03-04 00:00:00,,,,831XYT,2,0.0,Available,0.0
+tr6,2024-03-04 00:00:00,,,,385QRP,4,0.0,Available,0.0
+tr23,2024-03-04 00:00:00,,,,441TAD,2,0.0,Available,0.0
+tr47,2024-03-04 00:00:00,,,,762TCT,4,0.0,Available,0.0
+tr16,2024-03-04 00:00:00,,,,152BSJ,6,0.0,Available,0.0
+tr7,2024-03-04 00:00:00,,,,547ZWQ,6,0.0,Available,0.0
+tr16,2024-04-01 08:47:11,Truck Status,,,,,,Occupied,
+tr16,2024-04-01 08:47:11,Pickup Plan ID,Pcp52,,,,,,
+tr16,2024-04-01 08:47:11,Scheduled Pickup Weight,,,,,3.7,,
+tr16,2024-04-01 08:47:11,Cargo ID,,Cr24,,,,,
+tr40,2024-04-01 08:47:57,Truck Status,,,,,,Occupied,
+tr40,2024-04-01 08:47:57,Pickup Plan ID,Pcp20,,,,,,
+tr40,2024-04-01 08:47:57,Scheduled Pickup Weight,,,,,0.8,,
+tr40,2024-04-01 08:47:57,Cargo ID,,Cr89,,,,,
+tr29,2024-04-01 08:54:07,Truck Status,,,,,,Occupied,
+tr29,2024-04-01 08:54:07,Pickup Plan ID,Pcp56,,,,,,
+tr29,2024-04-01 08:54:07,Scheduled Pickup Weight,,,,,3.3,,
+tr29,2024-04-01 08:54:07,Cargo ID,,Cr14,,,,,
+tr26,2024-04-01 08:54:20,Truck Status,,,,,,Occupied,
+tr26,2024-04-01 08:54:20,Pickup Plan ID,Pcp92,,,,,,
+tr26,2024-04-01 08:54:20,Scheduled Pickup Weight,,,,,3.1,,
+tr26,2024-04-01 08:54:20,Cargo ID,,Cr27,,,,,
+tr1,2024-04-01 09:03:49,Truck Status,,,,,,Occupied,
+tr1,2024-04-01 09:03:49,Pickup Plan ID,Pcp77,,,,,,
+tr1,2024-04-01 09:03:49,Scheduled Pickup Weight,,,,,2.6,,
+tr1,2024-04-01 09:03:49,Cargo ID,,Cr46,,,,,
+tr9,2024-04-01 09:06:20,Truck Status,,,,,,Occupied,
+tr9,2024-04-01 09:06:20,Pickup Plan ID,Pcp56,,,,,,
+tr9,2024-04-01 09:06:20,Scheduled Pickup Weight,,,,,3.0,,
+tr9,2024-04-01 09:06:20,Cargo ID,,Cr14,,,,,
+tr38,2024-04-01 09:06:50,Truck Status,,,,,,Occupied,
+tr38,2024-04-01 09:06:50,Pickup Plan ID,Pcp36,,,,,,
+tr38,2024-04-01 09:06:50,Scheduled Pickup Weight,,,,,3.6,,
+tr38,2024-04-01 09:06:50,Cargo ID,,Cr8,,,,,
+tr7,2024-04-01 09:09:57,Truck Status,,,,,,Occupied,
+tr7,2024-04-01 09:09:57,Pickup Plan ID,Pcp36,,,,,,
+tr7,2024-04-01 09:09:57,Scheduled Pickup Weight,,,,,3.5,,
+tr7,2024-04-01 09:09:57,Cargo ID,,Cr8,,,,,
+tr32,2024-04-01 09:12:24,Truck Status,,,,,,Occupied,
+tr32,2024-04-01 09:12:24,Pickup Plan ID,Pcp29,,,,,,
+tr32,2024-04-01 09:12:24,Scheduled Pickup Weight,,,,,3.7,,
+tr32,2024-04-01 09:12:24,Cargo ID,,Cr72,,,,,
+tr6,2024-04-01 09:18:36,Truck Status,,,,,,Occupied,
+tr6,2024-04-01 09:18:36,Pickup Plan ID,Pcp52,,,,,,
+tr6,2024-04-01 09:18:36,Scheduled Pickup Weight,,,,,3.7,,
+tr6,2024-04-01 09:18:36,Cargo ID,,Cr24,,,,,
+tr33,2024-04-01 09:20:35,Truck Status,,,,,,Occupied,
+tr33,2024-04-01 09:20:35,Pickup Plan ID,Pcp29,,,,,,
+tr33,2024-04-01 09:20:35,Scheduled Pickup Weight,,,,,3.4,,
+tr33,2024-04-01 09:20:35,Cargo ID,,Cr72,,,,,
+tr50,2024-04-01 09:31:00,Truck Status,,,,,,Occupied,
+tr50,2024-04-01 09:31:00,Pickup Plan ID,Pcp84,,,,,,
+tr50,2024-04-01 09:31:00,Scheduled Pickup Weight,,,,,2.6,,
+tr50,2024-04-01 09:31:00,Cargo ID,,Cr40,,,,,
+tr43,2024-04-01 09:42:21,Truck Status,,,,,,Occupied,
+tr43,2024-04-01 09:42:21,Pickup Plan ID,Pcp26,,,,,,
+tr43,2024-04-01 09:42:21,Scheduled Pickup Weight,,,,,2.9,,
+tr43,2024-04-01 09:42:21,Cargo ID,,Cr10,,,,,
+tr46,2024-04-01 09:45:24,Truck Status,,,,,,Occupied,
+tr46,2024-04-01 09:45:24,Pickup Plan ID,Pcp64,,,,,,
+tr46,2024-04-01 09:45:24,Scheduled Pickup Weight,,,,,3.4,,
+tr46,2024-04-01 09:45:24,Cargo ID,,Cr33,,,,,
+tr47,2024-04-01 09:48:05,Truck Status,,,,,,Occupied,
+tr47,2024-04-01 09:48:05,Pickup Plan ID,Pcp92,,,,,,
+tr47,2024-04-01 09:48:05,Scheduled Pickup Weight,,,,,3.2,,
+tr47,2024-04-01 09:48:05,Cargo ID,,Cr27,,,,,
+tr12,2024-04-01 09:48:40,Truck Status,,,,,,Occupied,
+tr12,2024-04-01 09:48:40,Pickup Plan ID,Pcp56,,,,,,
+tr12,2024-04-01 09:48:40,Scheduled Pickup Weight,,,,,3.2,,
+tr12,2024-04-01 09:48:40,Cargo ID,,Cr14,,,,,
+tr45,2024-04-01 09:49:39,Truck Status,,,,,,Occupied,
+tr45,2024-04-01 09:49:39,Pickup Plan ID,Pcp13,,,,,,
+tr45,2024-04-01 09:49:39,Scheduled Pickup Weight,,,,,3.5,,
+tr45,2024-04-01 09:49:39,Cargo ID,,Cr79,,,,,
+tr42,2024-04-01 09:50:25,Truck Status,,,,,,Occupied,
+tr42,2024-04-01 09:50:25,Pickup Plan ID,Pcp56,,,,,,
+tr42,2024-04-01 09:50:25,Scheduled Pickup Weight,,,,,3.0,,
+tr42,2024-04-01 09:50:25,Cargo ID,,Cr14,,,,,
+tr2,2024-04-01 09:50:54,Truck Status,,,,,,Occupied,
+tr2,2024-04-01 09:50:54,Pickup Plan ID,Pcp26,,,,,,
+tr2,2024-04-01 09:50:54,Scheduled Pickup Weight,,,,,2.3,,
+tr2,2024-04-01 09:50:54,Cargo ID,,Cr10,,,,,
+tr17,2024-04-01 09:51:01,Truck Status,,,,,,Occupied,
+tr17,2024-04-01 09:51:01,Pickup Plan ID,Pcp92,,,,,,
+tr17,2024-04-01 09:51:01,Scheduled Pickup Weight,,,,,3.4,,
+tr17,2024-04-01 09:51:01,Cargo ID,,Cr27,,,,,
+tr28,2024-04-01 09:51:49,Truck Status,,,,,,Occupied,
+tr28,2024-04-01 09:51:49,Pickup Plan ID,Pcp95,,,,,,
+tr28,2024-04-01 09:51:49,Scheduled Pickup Weight,,,,,1.8,,
+tr28,2024-04-01 09:51:49,Cargo ID,,Cr86,,,,,
+tr22,2024-04-01 09:54:24,Truck Status,,,,,,Occupied,
+tr22,2024-04-01 09:54:24,Pickup Plan ID,Pcp69,,,,,,
+tr22,2024-04-01 09:54:24,Scheduled Pickup Weight,,,,,3.0,,
+tr22,2024-04-01 09:54:24,Cargo ID,,Cr56,,,,,
+tr23,2024-04-01 09:55:59,Truck Status,,,,,,Occupied,
+tr23,2024-04-01 09:55:59,Pickup Plan ID,Pcp36,,,,,,
+tr23,2024-04-01 09:55:59,Scheduled Pickup Weight,,,,,3.4,,
+tr23,2024-04-01 09:55:59,Cargo ID,,Cr8,,,,,
+tr39,2024-04-01 09:56:23,Truck Status,,,,,,Occupied,
+tr39,2024-04-01 09:56:23,Pickup Plan ID,Pcp69,,,,,,
+tr39,2024-04-01 09:56:23,Scheduled Pickup Weight,,,,,3.1,,
+tr39,2024-04-01 09:56:23,Cargo ID,,Cr56,,,,,
+tr3,2024-04-01 09:56:24,Truck Status,,,,,,Occupied,
+tr3,2024-04-01 09:56:24,Pickup Plan ID,Pcp13,,,,,,
+tr3,2024-04-01 09:56:24,Scheduled Pickup Weight,,,,,3.4,,
+tr3,2024-04-01 09:56:24,Cargo ID,,Cr79,,,,,
+tr30,2024-04-01 09:57:12,Truck Status,,,,,,Occupied,
+tr30,2024-04-01 09:57:12,Pickup Plan ID,Pcp36,,,,,,
+tr30,2024-04-01 09:57:12,Scheduled Pickup Weight,,,,,3.4,,
+tr30,2024-04-01 09:57:12,Cargo ID,,Cr8,,,,,
+tr27,2024-04-01 09:57:35,Truck Status,,,,,,Occupied,
+tr27,2024-04-01 09:57:35,Pickup Plan ID,Pcp36,,,,,,
+tr27,2024-04-01 09:57:35,Scheduled Pickup Weight,,,,,3.1,,
+tr27,2024-04-01 09:57:35,Cargo ID,,Cr8,,,,,
+tr10,2024-04-01 09:58:14,Truck Status,,,,,,Occupied,
+tr10,2024-04-01 09:58:14,Pickup Plan ID,Pcp69,,,,,,
+tr10,2024-04-01 09:58:14,Scheduled Pickup Weight,,,,,3.1,,
+tr10,2024-04-01 09:58:14,Cargo ID,,Cr56,,,,,
+tr14,2024-04-01 09:59:44,Truck Status,,,,,,Occupied,
+tr14,2024-04-01 09:59:44,Pickup Plan ID,Pcp38,,,,,,
+tr14,2024-04-01 09:59:44,Scheduled Pickup Weight,,,,,3.2,,
+tr14,2024-04-01 09:59:44,Cargo ID,,Cr18,,,,,
+tr19,2024-04-01 09:59:50,Truck Status,,,,,,Occupied,
+tr19,2024-04-01 09:59:50,Pickup Plan ID,Pcp41,,,,,,
+tr19,2024-04-01 09:59:50,Scheduled Pickup Weight,,,,,1.1,,
+tr19,2024-04-01 09:59:50,Cargo ID,,Cr21,,,,,
+tr13,2024-04-01 09:59:54,Truck Status,,,,,,Occupied,
+tr13,2024-04-01 09:59:54,Pickup Plan ID,Pcp38,,,,,,
+tr13,2024-04-01 09:59:54,Scheduled Pickup Weight,,,,,3.5,,
+tr13,2024-04-01 09:59:54,Cargo ID,,Cr18,,,,,
+tr5,2024-04-01 10:00:29,Truck Status,,,,,,Occupied,
+tr5,2024-04-01 10:00:29,Pickup Plan ID,Pcp56,,,,,,
+tr5,2024-04-01 10:00:29,Scheduled Pickup Weight,,,,,3.4,,
+tr5,2024-04-01 10:00:29,Cargo ID,,Cr14,,,,,
+tr11,2024-04-01 10:02:00,Truck Status,,,,,,Occupied,
+tr11,2024-04-01 10:02:00,Pickup Plan ID,Pcp18,,,,,,
+tr11,2024-04-01 10:02:00,Scheduled Pickup Weight,,,,,2.7,,
+tr11,2024-04-01 10:02:00,Cargo ID,,Cr29,,,,,
+tr24,2024-04-01 10:02:06,Truck Status,,,,,,Occupied,
+tr24,2024-04-01 10:02:06,Pickup Plan ID,Pcp56,,,,,,
+tr24,2024-04-01 10:02:06,Scheduled Pickup Weight,,,,,3.0,,
+tr24,2024-04-01 10:02:06,Cargo ID,,Cr14,,,,,
+tr25,2024-04-01 10:02:22,Truck Status,,,,,,Occupied,
+tr25,2024-04-01 10:02:22,Pickup Plan ID,Pcp52,,,,,,
+tr25,2024-04-01 10:02:22,Scheduled Pickup Weight,,,,,3.4,,
+tr25,2024-04-01 10:02:22,Cargo ID,,Cr24,,,,,
+tr36,2024-04-01 10:03:39,Truck Status,,,,,,Occupied,
+tr36,2024-04-01 10:03:39,Pickup Plan ID,Pcp13,,,,,,
+tr36,2024-04-01 10:03:39,Scheduled Pickup Weight,,,,,2.9,,
+tr36,2024-04-01 10:03:39,Cargo ID,,Cr79,,,,,
+tr20,2024-04-01 10:04:46,Truck Status,,,,,,Occupied,
+tr20,2024-04-01 10:04:46,Pickup Plan ID,Pcp49,,,,,,
+tr20,2024-04-01 10:04:46,Scheduled Pickup Weight,,,,,2.1,,
+tr20,2024-04-01 10:04:46,Cargo ID,,Cr62,,,,,
+tr37,2024-04-01 10:09:07,Truck Status,,,,,,Occupied,
+tr37,2024-04-01 10:09:07,Pickup Plan ID,Pcp64,,,,,,
+tr37,2024-04-01 10:09:07,Scheduled Pickup Weight,,,,,3.2,,
+tr37,2024-04-01 10:09:07,Cargo ID,,Cr33,,,,,
+tr31,2024-04-01 10:14:13,Truck Status,,,,,,Occupied,
+tr31,2024-04-01 10:14:13,Pickup Plan ID,Pcp69,,,,,,
+tr31,2024-04-01 10:14:13,Scheduled Pickup Weight,,,,,2.8,,
+tr31,2024-04-01 10:14:13,Cargo ID,,Cr56,,,,,
+tr21,2024-04-01 10:16:12,Truck Status,,,,,,Occupied,
+tr21,2024-04-01 10:16:12,Pickup Plan ID,Pcp52,,,,,,
+tr21,2024-04-01 10:16:12,Scheduled Pickup Weight,,,,,3.2,,
+tr21,2024-04-01 10:16:12,Cargo ID,,Cr24,,,,,
+tr48,2024-04-01 10:17:11,Truck Status,,,,,,Occupied,
+tr48,2024-04-01 10:17:11,Pickup Plan ID,Pcp77,,,,,,
+tr48,2024-04-01 10:17:11,Scheduled Pickup Weight,,,,,2.4,,
+tr48,2024-04-01 10:17:11,Cargo ID,,Cr46,,,,,
+tr4,2024-04-01 10:19:40,Truck Status,,,,,,Occupied,
+tr4,2024-04-01 10:19:40,Pickup Plan ID,Pcp42,,,,,,
+tr4,2024-04-01 10:19:40,Scheduled Pickup Weight,,,,,1.4,,
+tr4,2024-04-01 10:19:40,Cargo ID,,Cr51,,,,,
+tr15,2024-04-01 10:21:35,Truck Status,,,,,,Occupied,
+tr15,2024-04-01 10:21:35,Pickup Plan ID,Pcp29,,,,,,
+tr15,2024-04-01 10:21:35,Scheduled Pickup Weight,,,,,3.2,,
+tr15,2024-04-01 10:21:35,Cargo ID,,Cr72,,,,,
+tr49,2024-04-01 10:22:03,Truck Status,,,,,,Occupied,
+tr49,2024-04-01 10:22:03,Pickup Plan ID,Pcp64,,,,,,
+tr49,2024-04-01 10:22:03,Scheduled Pickup Weight,,,,,3.8,,
+tr49,2024-04-01 10:22:03,Cargo ID,,Cr33,,,,,
+tr18,2024-04-01 10:26:00,Truck Status,,,,,,Occupied,
+tr18,2024-04-01 10:26:00,Pickup Plan ID,Pcp13,,,,,,
+tr18,2024-04-01 10:26:00,Scheduled Pickup Weight,,,,,2.9,,
+tr18,2024-04-01 10:26:00,Cargo ID,,Cr79,,,,,
+tr34,2024-04-01 10:34:08,Truck Status,,,,,,Occupied,
+tr34,2024-04-01 10:34:08,Pickup Plan ID,Pcp52,,,,,,
+tr34,2024-04-01 10:34:08,Scheduled Pickup Weight,,,,,3.2,,
+tr34,2024-04-01 10:34:08,Cargo ID,,Cr24,,,,,
+tr44,2024-04-01 10:35:32,Truck Status,,,,,,Occupied,
+tr44,2024-04-01 10:35:32,Pickup Plan ID,Pcp29,,,,,,
+tr44,2024-04-01 10:35:32,Scheduled Pickup Weight,,,,,3.3,,
+tr44,2024-04-01 10:35:32,Cargo ID,,Cr72,,,,,
+tr8,2024-04-01 10:35:42,Truck Status,,,,,,Occupied,
+tr8,2024-04-01 10:35:42,Pickup Plan ID,Pcp36,,,,,,
+tr8,2024-04-01 10:35:42,Scheduled Pickup Weight,,,,,2.8,,
+tr8,2024-04-01 10:35:42,Cargo ID,,Cr8,,,,,
+tr41,2024-04-01 10:43:21,Truck Status,,,,,,Occupied,
+tr41,2024-04-01 10:43:21,Pickup Plan ID,Pcp69,,,,,,
+tr41,2024-04-01 10:43:21,Scheduled Pickup Weight,,,,,3.2,,
+tr41,2024-04-01 10:43:21,Cargo ID,,Cr56,,,,,
+tr35,2024-04-01 10:43:47,Truck Status,,,,,,Occupied,
+tr35,2024-04-01 10:43:47,Pickup Plan ID,Pcp21,,,,,,
+tr35,2024-04-01 10:43:47,Scheduled Pickup Weight,,,,,3.5,,
+tr35,2024-04-01 10:43:47,Cargo ID,,Cr37,,,,,
+tr49,2024-04-01 10:55:39,Truck Weight,,,,,,,11.4
+tr11,2024-04-01 11:33:37,Truck Weight,,,,,,,8.0
+tr15,2024-04-01 11:36:55,Truck Weight,,,,,,,9.2
+tr17,2024-04-01 11:37:18,Truck Weight,,,,,,,12.1
+tr50,2024-04-01 11:52:17,Truck Weight,,,,,,,9.3
+tr9,2024-04-01 11:55:53,Truck Weight,,,,,,,8.8
+tr24,2024-04-01 12:00:00,Truck Weight,,,,,,,8.2
+tr12,2024-04-01 12:03:12,Truck Weight,,,,,,,11.7
+tr23,2024-04-01 12:35:52,Truck Weight,,,,,,,6.9
+tr42,2024-04-01 14:06:13,Truck Weight,,,,,,,9.1
+tr33,2024-04-01 14:09:55,Truck Weight,,,,,,,9.8
+tr43,2024-04-01 14:21:27,Truck Weight,,,,,,,6.9
+tr45,2024-04-01 14:31:02,Truck Weight,,,,,,,11.3
+tr30,2024-04-01 14:36:43,Truck Weight,,,,,,,10.0
+tr13,2024-04-01 14:40:53,Truck Weight,,,,,,,12.2
+tr7,2024-04-01 14:50:31,Truck Weight,,,,,,,10.7
+tr15,2024-04-01 14:53:54,Truck Weight,,,,,,,12.4
+tr3,2024-04-01 14:54:26,Truck Weight,,,,,,,9.1
+tr28,2024-04-01 14:55:03,Truck Weight,,,,,,,9.1
+tr22,2024-04-01 15:11:29,Truck Weight,,,,,,,9.5
+tr1,2024-04-01 15:15:39,Truck Weight,,,,,,,8.8
+tr18,2024-04-01 15:18:38,Truck Weight,,,,,,,7.5
+tr38,2024-04-01 15:24:12,Truck Weight,,,,,,,6.6
+tr24,2024-04-01 15:27:28,Truck Weight,,,,,,,11.2
+tr19,2024-04-01 15:28:46,Truck Weight,,,,,,,11.9
+tr4,2024-04-01 15:33:18,Truck Weight,,,,,,,6.7
+tr34,2024-04-01 15:39:58,Truck Weight,,,,,,,6.9
+tr39,2024-04-01 15:44:41,Truck Weight,,,,,,,10.3
+tr29,2024-04-01 15:48:12,Truck Weight,,,,,,,8.8
+tr25,2024-04-01 15:48:44,Truck Weight,,,,,,,11.6
+tr31,2024-04-01 15:50:21,Truck Weight,,,,,,,7.9
+tr11,2024-04-01 15:51:34,Truck Weight,,,,,,,10.7
+tr21,2024-04-01 16:09:07,Truck Weight,,,,,,,9.6
+tr43,2024-04-01 16:16:19,Truck Weight,,,,,,,9.8
+tr49,2024-04-01 16:41:56,Truck Weight,,,,,,,15.2
+tr26,2024-04-01 16:43:02,Truck Weight,,,,,,,9.6
+tr44,2024-04-01 16:45:32,Truck Weight,,,,,,,8.9
+tr5,2024-04-01 16:55:11,Truck Weight,,,,,,,11.2
+tr47,2024-04-01 17:01:46,Truck Weight,,,,,,,8.3
+tr14,2024-04-01 17:02:39,Truck Weight,,,,,,,11.7
+tr48,2024-04-01 17:08:14,Truck Weight,,,,,,,7.7
+tr20,2024-04-01 17:14:46,Truck Weight,,,,,,,6.7
+tr6,2024-04-01 17:15:55,Truck Weight,,,,,,,9.3
+tr45,2024-04-01 17:17:39,Truck Weight,,,,,,,14.8
+tr13,2024-04-01 17:47:23,Truck Weight,,,,,,,15.7
+tr10,2024-04-01 17:49:34,Truck Weight,,,,,,,10.2
+tr9,2024-04-01 18:00:52,Truck Weight,,,,,,,11.8
+tr12,2024-04-01 18:03:03,Truck Weight,,,,,,,14.9
+tr8,2024-04-01 18:15:39,Truck Weight,,,,,,,7.0
+tr2,2024-04-01 18:52:56,Truck Weight,,,,,,,8.5
+tr16,2024-04-02 07:51:38,Truck Weight,,,,,,,10.3
+tr41,2024-04-02 08:11:58,Truck Weight,,,,,,,8.6
+tr17,2024-04-02 08:24:32,Truck Weight,,,,,,,15.5
+tr43,2024-04-02 08:31:03,Truck Status,,,,,,Available,
+tr24,2024-04-02 08:31:37,Truck Status,,,,,,Available,
+tr15,2024-04-02 08:32:15,Truck Status,,,,,,Available,
+tr36,2024-04-02 08:38:26,Truck Weight,,,,,,,6.6
+tr28,2024-04-02 09:10:29,Truck Weight,,,,,,,10.9
+tr33,2024-04-02 09:16:54,Truck Weight,,,,,,,13.2
+tr37,2024-04-02 09:19:07,Truck Weight,,,,,,,10.2
+tr42,2024-04-02 09:38:35,Truck Weight,,,,,,,12.1
+tr15,2024-04-02 09:40:05,Truck Status,,,,,,Occupied,
+tr15,2024-04-02 09:40:05,Pickup Plan ID,Pcp34,,,,,,
+tr15,2024-04-02 09:40:05,Scheduled Pickup Weight,,,,,3.1,,
+tr15,2024-04-02 09:40:05,Cargo ID,,Cr50,,,,,
+tr32,2024-04-02 09:44:58,Truck Weight,,,,,,,7.9
+tr3,2024-04-02 09:52:56,Truck Weight,,,,,,,12.5
+tr43,2024-04-02 09:57:58,Truck Status,,,,,,Occupied,
+tr43,2024-04-02 09:57:58,Pickup Plan ID,Pcp79,,,,,,
+tr43,2024-04-02 09:57:58,Scheduled Pickup Weight,,,,,2.2,,
+tr43,2024-04-02 09:57:58,Cargo ID,,Cr98,,,,,
+tr40,2024-04-02 09:58:29,Truck Weight,,,,,,,12.2
+tr24,2024-04-02 10:01:31,Truck Status,,,,,,Occupied,
+tr24,2024-04-02 10:01:31,Pickup Plan ID,Pcp15,,,,,,
+tr24,2024-04-02 10:01:31,Scheduled Pickup Weight,,,,,2.5,,
+tr24,2024-04-02 10:01:31,Cargo ID,,Cr20,,,,,
+tr38,2024-04-02 10:05:42,Truck Weight,,,,,,,10.2
+tr50,2024-04-02 10:09:30,Truck Weight,,,,,,,11.9
+tr35,2024-04-02 10:09:33,Truck Weight,,,,,,,6.5
+tr6,2024-04-02 10:10:48,Truck Weight,,,,,,,13.0
+tr21,2024-04-02 10:15:00,Truck Weight,,,,,,,12.8
+tr47,2024-04-02 10:19:03,Truck Weight,,,,,,,11.5
+tr48,2024-04-02 10:25:25,Truck Weight,,,,,,,10.1
+tr44,2024-04-02 10:30:08,Truck Weight,,,,,,,12.2
+tr22,2024-04-02 10:36:40,Truck Weight,,,,,,,12.5
+tr27,2024-04-02 10:39:55,Truck Weight,,,,,,,10.3
+tr33,2024-04-02 10:40:21,Truck Status,,,,,,Available,
+tr17,2024-04-02 10:42:31,Truck Status,,,,,,Available,
+tr23,2024-04-02 10:49:31,Truck Weight,,,,,,,10.3
+tr2,2024-04-02 10:50:31,Truck Weight,,,,,,,10.8
+tr7,2024-04-02 10:51:21,Truck Weight,,,,,,,14.2
+tr49,2024-04-02 10:54:39,Truck Status,,,,,,Available,
+tr46,2024-04-02 10:59:44,Truck Weight,,,,,,,8.5
+tr11,2024-04-02 11:00:59,Truck Status,,,,,,Available,
+tr19,2024-04-02 11:05:17,Truck Weight,,,,,,,13.0
+tr30,2024-04-02 11:17:58,Truck Weight,,,,,,,13.4
+tr50,2024-04-02 11:29:38,Truck Status,,,,,,Available,
+tr21,2024-04-02 11:37:06,Truck Status,,,,,,Available,
+tr28,2024-04-02 11:46:24,Truck Status,,,,,,Available,
+tr6,2024-04-02 11:48:37,Truck Status,,,,,,Available,
+tr16,2024-04-02 11:49:02,Truck Weight,,,,,,,14.0
+tr11,2024-04-02 11:55:30,Truck Status,,,,,,Occupied,
+tr11,2024-04-02 11:55:30,Pickup Plan ID,Pcp37,,,,,,
+tr11,2024-04-02 11:55:30,Scheduled Pickup Weight,,,,,1.8,,
+tr11,2024-04-02 11:55:30,Cargo ID,,Cr83,,,,,
+tr17,2024-04-02 11:56:15,Truck Status,,,,,,Occupied,
+tr17,2024-04-02 11:56:15,Pickup Plan ID,Pcp39,,,,,,
+tr17,2024-04-02 11:56:15,Scheduled Pickup Weight,,,,,2.2,,
+tr17,2024-04-02 11:56:15,Cargo ID,,Cr9,,,,,
+tr34,2024-04-02 11:58:23,Truck Weight,,,,,,,10.1
+tr39,2024-04-02 12:04:05,Truck Weight,,,,,,,13.4
+tr38,2024-04-02 12:05:25,Truck Status,,,,,,Available,
+tr1,2024-04-02 12:14:30,Truck Weight,,,,,,,11.4
+tr49,2024-04-02 12:21:51,Truck Status,,,,,,Occupied,
+tr49,2024-04-02 12:21:51,Pickup Plan ID,Pcp63,,,,,,
+tr49,2024-04-02 12:21:51,Scheduled Pickup Weight,,,,,3.4,,
+tr49,2024-04-02 12:21:51,Cargo ID,,Cr3,,,,,
+tr33,2024-04-02 12:23:36,Truck Status,,,,,,Occupied,
+tr33,2024-04-02 12:23:36,Pickup Plan ID,Pcp50,,,,,,
+tr33,2024-04-02 12:23:36,Scheduled Pickup Weight,,,,,2.5,,
+tr33,2024-04-02 12:23:36,Cargo ID,,Cr36,,,,,
+tr27,2024-04-02 12:27:07,Truck Weight,,,,,,,13.4
+tr24,2024-04-02 13:10:53,Truck Weight,,,,,,,7.8
+tr42,2024-04-02 13:23:26,Truck Status,,,,,,Available,
+tr38,2024-04-02 13:26:28,Truck Status,,,,,,Occupied,
+tr38,2024-04-02 13:26:28,Pickup Plan ID,Pcp30,,,,,,
+tr38,2024-04-02 13:26:28,Scheduled Pickup Weight,,,,,1.8,,
+tr38,2024-04-02 13:26:28,Cargo ID,,Cr13,,,,,
+tr50,2024-04-02 13:38:41,Truck Status,,,,,,Occupied,
+tr50,2024-04-02 13:38:41,Pickup Plan ID,Pcp66,,,,,,
+tr50,2024-04-02 13:38:41,Scheduled Pickup Weight,,,,,2.7,,
+tr50,2024-04-02 13:38:41,Cargo ID,,Cr32,,,,,
+tr4,2024-04-02 13:49:59,Truck Weight,,,,,,,8.1
+tr19,2024-04-02 13:54:37,Truck Status,,,,,,Available,
+tr18,2024-04-02 13:57:03,Truck Weight,,,,,,,10.4
+tr3,2024-04-02 13:58:20,Truck Status,,,,,,Available,
+tr25,2024-04-02 14:16:37,Truck Weight,,,,,,,15.0
+tr5,2024-04-02 14:17:17,Truck Weight,,,,,,,14.6
+tr43,2024-04-02 14:21:02,Truck Weight,,,,,,,9.8
+tr48,2024-04-02 14:30:03,Truck Status,,,,,,Available,
+tr30,2024-04-02 14:30:55,Truck Status,,,,,,Available,
+tr21,2024-04-02 14:32:55,Truck Status,,,,,,Occupied,
+tr21,2024-04-02 14:32:55,Pickup Plan ID,Pcp47,,,,,,
+tr21,2024-04-02 14:32:55,Scheduled Pickup Weight,,,,,1.9,,
+tr21,2024-04-02 14:32:55,Cargo ID,,Cr34,,,,,
+tr23,2024-04-02 14:33:51,Truck Status,,,,,,Available,
+tr20,2024-04-02 14:33:53,Truck Weight,,,,,,,8.8
+tr47,2024-04-02 14:40:00,Truck Status,,,,,,Available,
+tr26,2024-04-02 14:42:07,Truck Weight,,,,,,,12.7
+tr37,2024-04-02 14:44:06,Truck Weight,,,,,,,13.4
+tr42,2024-04-02 14:44:37,Truck Status,,,,,,Occupied,
+tr42,2024-04-02 14:44:37,Pickup Plan ID,Pcp62,,,,,,
+tr42,2024-04-02 14:44:37,Scheduled Pickup Weight,,,,,3.3,,
+tr42,2024-04-02 14:44:37,Cargo ID,,Cr52,,,,,
+tr16,2024-04-02 14:45:09,Truck Status,,,,,,Available,
+tr14,2024-04-02 14:49:27,Truck Weight,,,,,,,14.9
+tr7,2024-04-02 14:49:51,Truck Status,,,,,,Available,
+tr8,2024-04-02 14:50:09,Truck Weight,,,,,,,9.8
+tr48,2024-04-02 14:50:16,Truck Status,,,,,,Occupied,
+tr48,2024-04-02 14:50:16,Pickup Plan ID,Pcp57,,,,,,
+tr48,2024-04-02 14:50:16,Scheduled Pickup Weight,,,,,3.1,,
+tr48,2024-04-02 14:50:16,Cargo ID,,Cr94,,,,,
+tr31,2024-04-02 14:51:53,Truck Weight,,,,,,,10.7
+tr23,2024-04-02 14:51:55,Truck Status,,,,,,Occupied,
+tr23,2024-04-02 14:51:55,Pickup Plan ID,Pcp34,,,,,,
+tr23,2024-04-02 14:51:55,Scheduled Pickup Weight,,,,,2.8,,
+tr23,2024-04-02 14:51:55,Cargo ID,,Cr50,,,,,
+tr30,2024-04-02 14:53:00,Truck Status,,,,,,Occupied,
+tr30,2024-04-02 14:53:00,Pickup Plan ID,Pcp82,,,,,,
+tr30,2024-04-02 14:53:00,Scheduled Pickup Weight,,,,,3.0,,
+tr30,2024-04-02 14:53:00,Cargo ID,,Cr61,,,,,
+tr25,2024-04-02 14:59:25,Truck Status,,,,,,Available,
+tr29,2024-04-02 15:01:34,Truck Weight,,,,,,,12.1
+tr32,2024-04-02 15:02:03,Truck Weight,,,,,,,11.6
+tr22,2024-04-02 15:03:07,Truck Status,,,,,,Available,
+tr6,2024-04-02 15:09:49,Truck Status,,,,,,Occupied,
+tr6,2024-04-02 15:09:49,Pickup Plan ID,Pcp81,,,,,,
+tr6,2024-04-02 15:09:49,Scheduled Pickup Weight,,,,,2.1,,
+tr6,2024-04-02 15:09:49,Cargo ID,,Cr35,,,,,
+tr28,2024-04-02 15:13:24,Truck Status,,,,,,Occupied,
+tr28,2024-04-02 15:13:24,Pickup Plan ID,Pcp71,,,,,,
+tr28,2024-04-02 15:13:24,Scheduled Pickup Weight,,,,,3.2,,
+tr28,2024-04-02 15:13:24,Cargo ID,,Cr16,,,,,
+tr44,2024-04-02 15:13:29,Truck Status,,,,,,Available,
+tr2,2024-04-02 15:14:40,Truck Status,,,,,,Available,
+tr19,2024-04-02 15:30:59,Truck Status,,,,,,Occupied,
+tr19,2024-04-02 15:30:59,Pickup Plan ID,Pcp82,,,,,,
+tr19,2024-04-02 15:30:59,Scheduled Pickup Weight,,,,,2.7,,
+tr19,2024-04-02 15:30:59,Cargo ID,,Cr61,,,,,
+tr46,2024-04-02 15:31:49,Truck Weight,,,,,,,11.9
+tr17,2024-04-02 15:35:20,Truck Weight,,,,,,,11.1
+tr22,2024-04-02 15:46:08,Truck Status,,,,,,Occupied,
+tr22,2024-04-02 15:46:08,Pickup Plan ID,Pcp88,,,,,,
+tr22,2024-04-02 15:46:08,Scheduled Pickup Weight,,,,,2.3,,
+tr22,2024-04-02 15:46:08,Cargo ID,,Cr65,,,,,
+tr2,2024-04-02 15:46:21,Truck Status,,,,,,Occupied,
+tr2,2024-04-02 15:46:21,Pickup Plan ID,Pcp90,,,,,,
+tr2,2024-04-02 15:46:21,Scheduled Pickup Weight,,,,,1.3,,
+tr2,2024-04-02 15:46:21,Cargo ID,,Cr41,,,,,
+tr50,2024-04-02 15:48:14,Truck Weight,,,,,,,7.5
+tr36,2024-04-02 15:53:58,Truck Weight,,,,,,,9.5
+tr41,2024-04-02 16:02:14,Truck Weight,,,,,,,11.8
+tr47,2024-04-02 16:05:28,Truck Status,,,,,,Occupied,
+tr47,2024-04-02 16:05:28,Pickup Plan ID,Pcp5,,,,,,
+tr47,2024-04-02 16:05:28,Scheduled Pickup Weight,,,,,0.9,,
+tr47,2024-04-02 16:05:28,Cargo ID,,Cr66,,,,,
+tr10,2024-04-02 16:07:53,Truck Weight,,,,,,,13.3
+tr38,2024-04-02 16:08:34,Truck Weight,,,,,,,6.6
+tr11,2024-04-02 16:13:09,Truck Weight,,,,,,,12.4
+tr39,2024-04-02 16:14:21,Truck Status,,,,,,Available,
+tr7,2024-04-02 16:14:56,Truck Status,,,,,,Occupied,
+tr7,2024-04-02 16:14:56,Pickup Plan ID,Pcp28,,,,,,
+tr7,2024-04-02 16:14:56,Scheduled Pickup Weight,,,,,2.5,,
+tr7,2024-04-02 16:14:56,Cargo ID,,Cr47,,,,,
+tr3,2024-04-02 16:16:31,Truck Status,,,,,,Occupied,
+tr3,2024-04-02 16:16:31,Pickup Plan ID,Pcp62,,,,,,
+tr3,2024-04-02 16:16:31,Scheduled Pickup Weight,,,,,3.4,,
+tr3,2024-04-02 16:16:31,Cargo ID,,Cr52,,,,,
+tr1,2024-04-02 16:37:38,Truck Status,,,,,,Available,
+tr29,2024-04-02 16:43:41,Truck Status,,,,,,Available,
+tr16,2024-04-02 16:44:55,Truck Status,,,,,,Occupied,
+tr16,2024-04-02 16:44:55,Pickup Plan ID,Pcp12,,,,,,
+tr16,2024-04-02 16:44:55,Scheduled Pickup Weight,,,,,1.1,,
+tr16,2024-04-02 16:44:55,Cargo ID,,Cr60,,,,,
+tr46,2024-04-02 16:45:00,Truck Status,,,,,,Available,
+tr44,2024-04-02 16:45:26,Truck Status,,,,,,Occupied,
+tr44,2024-04-02 16:45:26,Pickup Plan ID,Pcp47,,,,,,
+tr44,2024-04-02 16:45:26,Scheduled Pickup Weight,,,,,2.0,,
+tr44,2024-04-02 16:45:26,Cargo ID,,Cr34,,,,,
+tr15,2024-04-02 16:46:11,Truck Weight,,,,,,,7.3
+tr47,2024-04-02 16:47:10,Truck Weight,,,,,,,7.1
+tr19,2024-04-02 17:02:42,Truck Weight,,,,,,,10.8
+tr23,2024-04-02 17:09:28,Truck Weight,,,,,,,9.4
+tr27,2024-04-02 17:22:41,Truck Status,,,,,,Available,
+tr25,2024-04-02 17:34:56,Truck Status,,,,,,Occupied,
+tr25,2024-04-02 17:34:56,Pickup Plan ID,Pcp39,,,,,,
+tr25,2024-04-02 17:34:56,Scheduled Pickup Weight,,,,,1.6,,
+tr25,2024-04-02 17:34:56,Cargo ID,,Cr9,,,,,
+tr20,2024-04-02 17:43:41,Truck Status,,,,,,Available,
+tr39,2024-04-02 17:48:20,Truck Status,,,,,,Occupied,
+tr39,2024-04-02 17:48:20,Pickup Plan ID,Pcp53,,,,,,
+tr39,2024-04-02 17:48:20,Scheduled Pickup Weight,,,,,3.2,,
+tr39,2024-04-02 17:48:20,Cargo ID,,Cr75,,,,,
+tr14,2024-04-02 17:50:12,Truck Status,,,,,,Available,
+tr4,2024-04-02 17:59:51,Truck Status,,,,,,Available,
+tr24,2024-04-02 18:06:53,Truck Weight,,,,,,,10.3
+tr32,2024-04-02 18:13:30,Truck Status,,,,,,Available,
+tr46,2024-04-02 18:37:25,Truck Status,,,,,,Occupied,
+tr46,2024-04-02 18:37:25,Pickup Plan ID,Pcp51,,,,,,
+tr46,2024-04-02 18:37:25,Scheduled Pickup Weight,,,,,3.1,,
+tr46,2024-04-02 18:37:25,Cargo ID,,Cr12,,,,,
+tr37,2024-04-03 07:10:26,Truck Status,,,,,,Available,
+tr5,2024-04-03 07:10:50,Truck Status,,,,,,Available,
+tr26,2024-04-03 07:23:45,Truck Status,,,,,,Available,
+tr21,2024-04-03 07:33:03,Truck Weight,,,,,,,10.9
+tr31,2024-04-03 07:36:02,Truck Status,,,,,,Available,
+tr5,2024-04-03 07:42:07,Truck Status,,,,,,Occupied,
+tr5,2024-04-03 07:42:07,Pickup Plan ID,Pcp78,,,,,,
+tr5,2024-04-03 07:42:07,Scheduled Pickup Weight,,,,,3.1,,
+tr5,2024-04-03 07:42:07,Cargo ID,,Cr96,,,,,
+tr35,2024-04-03 07:48:50,Truck Weight,,,,,,,10.0
+tr40,2024-04-03 07:51:50,Truck Weight,,,,,,,13.0
+tr8,2024-04-03 07:57:01,Truck Status,,,,,,Available,
+tr43,2024-04-03 08:11:24,Truck Weight,,,,,,,12.0
+tr34,2024-04-03 08:20:09,Truck Status,,,,,,Available,
+tr3,2024-04-03 08:26:39,Truck Weight,,,,,,,8.7
+tr27,2024-04-03 08:37:06,Truck Status,,,,,,Occupied,
+tr27,2024-04-03 08:37:06,Pickup Plan ID,Pcp73,,,,,,
+tr27,2024-04-03 08:37:06,Scheduled Pickup Weight,,,,,2.6,,
+tr27,2024-04-03 08:37:06,Cargo ID,,Cr85,,,,,
+tr14,2024-04-03 08:37:08,Truck Status,,,,,,Occupied,
+tr14,2024-04-03 08:37:08,Pickup Plan ID,Pcp19,,,,,,
+tr14,2024-04-03 08:37:08,Scheduled Pickup Weight,,,,,0.2,,
+tr14,2024-04-03 08:37:08,Cargo ID,,Cr76,,,,,
+tr12,2024-04-03 08:39:41,Truck Status,,,,,,Available,
+tr9,2024-04-03 08:39:51,Truck Status,,,,,,Available,
+tr1,2024-04-03 08:41:21,Truck Status,,,,,,Occupied,
+tr1,2024-04-03 08:41:21,Pickup Plan ID,Pcp65,,,,,,
+tr1,2024-04-03 08:41:21,Scheduled Pickup Weight,,,,,3.3,,
+tr1,2024-04-03 08:41:21,Cargo ID,,Cr55,,,,,
+tr37,2024-04-03 08:42:09,Truck Status,,,,,,Occupied,
+tr37,2024-04-03 08:42:09,Pickup Plan ID,Pcp96,,,,,,
+tr37,2024-04-03 08:42:09,Scheduled Pickup Weight,,,,,1.9,,
+tr37,2024-04-03 08:42:09,Cargo ID,,Cr91,,,,,
+tr18,2024-04-03 08:42:17,Truck Status,,,,,,Available,
+tr26,2024-04-03 08:45:49,Truck Status,,,,,,Occupied,
+tr26,2024-04-03 08:45:49,Pickup Plan ID,Pcp17,,,,,,
+tr26,2024-04-03 08:45:49,Scheduled Pickup Weight,,,,,3.2,,
+tr26,2024-04-03 08:45:49,Cargo ID,,Cr30,,,,,
+tr13,2024-04-03 08:50:47,Truck Status,,,,,,Available,
+tr36,2024-04-03 08:56:03,Truck Status,,,,,,Available,
+tr10,2024-04-03 09:10:19,Truck Status,,,,,,Available,
+tr11,2024-04-03 09:10:55,Truck Weight,,,,,,,14.2
+tr45,2024-04-03 09:16:18,Truck Status,,,,,,Available,
+tr32,2024-04-03 09:16:38,Truck Status,,,,,,Occupied,
+tr32,2024-04-03 09:16:38,Pickup Plan ID,Pcp44,,,,,,
+tr32,2024-04-03 09:16:38,Scheduled Pickup Weight,,,,,3.1,,
+tr32,2024-04-03 09:16:38,Cargo ID,,Cr87,,,,,
+tr41,2024-04-03 09:18:29,Truck Status,,,,,,Available,
+tr29,2024-04-03 09:29:21,Truck Status,,,,,,Occupied,
+tr29,2024-04-03 09:29:21,Pickup Plan ID,Pcp16,,,,,,
+tr29,2024-04-03 09:29:21,Scheduled Pickup Weight,,,,,2.7,,
+tr29,2024-04-03 09:29:21,Cargo ID,,Cr17,,,,,
+tr45,2024-04-03 09:32:01,Truck Status,,,,,,Occupied,
+tr45,2024-04-03 09:32:01,Pickup Plan ID,Pcp10,,,,,,
+tr45,2024-04-03 09:32:01,Scheduled Pickup Weight,,,,,3.3,,
+tr45,2024-04-03 09:32:01,Cargo ID,,Cr93,,,,,
+tr49,2024-04-03 09:40:27,Truck Weight,,,,,,,7.0
+tr31,2024-04-03 09:41:32,Truck Status,,,,,,Occupied,
+tr31,2024-04-03 09:41:32,Pickup Plan ID,Pcp37,,,,,,
+tr31,2024-04-03 09:41:32,Scheduled Pickup Weight,,,,,2.0,,
+tr31,2024-04-03 09:41:32,Cargo ID,,Cr83,,,,,
+tr7,2024-04-03 09:42:10,Truck Weight,,,,,,,6.9
+tr12,2024-04-03 09:46:16,Truck Status,,,,,,Occupied,
+tr12,2024-04-03 09:46:16,Pickup Plan ID,Pcp73,,,,,,
+tr12,2024-04-03 09:46:16,Scheduled Pickup Weight,,,,,2.6,,
+tr12,2024-04-03 09:46:16,Cargo ID,,Cr85,,,,,
+tr5,2024-04-03 09:48:04,Truck Weight,,,,,,,7.4
+tr20,2024-04-03 09:52:57,Truck Status,,,,,,Occupied,
+tr20,2024-04-03 09:52:57,Pickup Plan ID,Pcp80,,,,,,
+tr20,2024-04-03 09:52:57,Scheduled Pickup Weight,,,,,0.2,,
+tr20,2024-04-03 09:52:57,Cargo ID,,Cr22,,,,,
+tr8,2024-04-03 10:11:22,Truck Status,,,,,,Occupied,
+tr8,2024-04-03 10:11:22,Pickup Plan ID,Pcp94,,,,,,
+tr8,2024-04-03 10:11:22,Scheduled Pickup Weight,,,,,2.5,,
+tr8,2024-04-03 10:11:22,Cargo ID,,Cr70,,,,,
+tr44,2024-04-03 10:15:30,Truck Weight,,,,,,,12.2
+tr19,2024-04-03 10:18:09,Truck Weight,,,,,,,13.5
+tr18,2024-04-03 10:21:20,Truck Status,,,,,,Occupied,
+tr18,2024-04-03 10:21:20,Pickup Plan ID,Pcp23,,,,,,
+tr18,2024-04-03 10:21:20,Scheduled Pickup Weight,,,,,2.5,,
+tr18,2024-04-03 10:21:20,Cargo ID,,Cr39,,,,,
+tr4,2024-04-03 10:22:01,Truck Status,,,,,,Occupied,
+tr4,2024-04-03 10:22:01,Pickup Plan ID,Pcp10,,,,,,
+tr4,2024-04-03 10:22:01,Scheduled Pickup Weight,,,,,3.1,,
+tr4,2024-04-03 10:22:01,Cargo ID,,Cr93,,,,,
+tr9,2024-04-03 10:22:11,Truck Status,,,,,,Occupied,
+tr9,2024-04-03 10:22:11,Pickup Plan ID,Pcp89,,,,,,
+tr9,2024-04-03 10:22:11,Scheduled Pickup Weight,,,,,3.0,,
+tr9,2024-04-03 10:22:11,Cargo ID,,Cr63,,,,,
+tr10,2024-04-03 10:25:13,Truck Status,,,,,,Occupied,
+tr10,2024-04-03 10:25:13,Pickup Plan ID,Pcp79,,,,,,
+tr10,2024-04-03 10:25:13,Scheduled Pickup Weight,,,,,2.6,,
+tr10,2024-04-03 10:25:13,Cargo ID,,Cr98,,,,,
+tr34,2024-04-03 10:26:58,Truck Status,,,,,,Occupied,
+tr34,2024-04-03 10:26:58,Pickup Plan ID,Pcp78,,,,,,
+tr34,2024-04-03 10:26:58,Scheduled Pickup Weight,,,,,2.6,,
+tr34,2024-04-03 10:26:58,Cargo ID,,Cr96,,,,,
+tr17,2024-04-03 10:35:06,Truck Weight,,,,,,,13.3
+tr41,2024-04-03 10:35:09,Truck Status,,,,,,Occupied,
+tr41,2024-04-03 10:35:09,Pickup Plan ID,Pcp24,,,,,,
+tr41,2024-04-03 10:35:09,Scheduled Pickup Weight,,,,,2.1,,
+tr41,2024-04-03 10:35:09,Cargo ID,,Cr73,,,,,
+tr13,2024-04-03 10:36:35,Truck Status,,,,,,Occupied,
+tr13,2024-04-03 10:36:35,Pickup Plan ID,Pcp74,,,,,,
+tr13,2024-04-03 10:36:35,Scheduled Pickup Weight,,,,,3.1,,
+tr13,2024-04-03 10:36:35,Cargo ID,,Cr97,,,,,
+tr14,2024-04-03 10:38:05,Truck Weight,,,,,,,6.7
+tr3,2024-04-03 10:42:35,Truck Weight,,,,,,,12.1
+tr43,2024-04-03 10:46:09,Truck Status,,,,,,Available,
+tr11,2024-04-03 10:53:18,Truck Status,,,,,,Available,
+tr39,2024-04-03 11:03:27,Truck Weight,,,,,,,11.2
+tr12,2024-04-03 11:07:42,Truck Weight,,,,,,,10.6
+tr36,2024-04-03 11:20:13,Truck Status,,,,,,Occupied,
+tr36,2024-04-03 11:20:13,Pickup Plan ID,Pcp98,,,,,,
+tr36,2024-04-03 11:20:13,Scheduled Pickup Weight,,,,,0.9,,
+tr36,2024-04-03 11:20:13,Cargo ID,,Cr53,,,,,
+tr15,2024-04-03 11:23:51,Truck Weight,,,,,,,10.4
+tr6,2024-04-03 11:26:21,Truck Weight,,,,,,,7.2
+tr46,2024-04-03 11:27:42,Truck Weight,,,,,,,7.4
+tr40,2024-04-03 11:34:10,Truck Status,,,,,,Available,
+tr2,2024-04-03 11:37:13,Truck Weight,,,,,,,6.6
+tr34,2024-04-03 11:37:35,Truck Weight,,,,,,,11.9
+tr9,2024-04-03 11:41:01,Truck Weight,,,,,,,10.0
+tr33,2024-04-03 11:43:40,Truck Weight,,,,,,,9.5
+tr23,2024-04-03 11:43:47,Truck Weight,,,,,,,12.2
+tr26,2024-04-03 11:50:44,Truck Weight,,,,,,,8.6
+tr49,2024-04-03 11:51:10,Truck Weight,,,,,,,10.4
+tr21,2024-04-03 11:55:13,Truck Weight,,,,,,,12.8
+tr38,2024-04-03 12:03:12,Truck Weight,,,,,,,8.4
+tr1,2024-04-03 12:03:44,Truck Weight,,,,,,,8.8
+tr44,2024-04-03 12:15:55,Truck Weight,,,,,,,14.2
+tr43,2024-04-03 12:19:02,Truck Status,,,,,,Occupied,
+tr43,2024-04-03 12:19:02,Pickup Plan ID,Pcp99,,,,,,
+tr43,2024-04-03 12:19:02,Scheduled Pickup Weight,,,,,3.1,,
+tr43,2024-04-03 12:19:02,Cargo ID,,Cr31,,,,,
+tr31,2024-04-03 12:20:27,Truck Weight,,,,,,,6.6
+tr41,2024-04-03 12:32:20,Truck Weight,,,,,,,8.4
+tr37,2024-04-03 12:34:23,Truck Weight,,,,,,,6.8
+tr50,2024-04-03 12:57:35,Truck Weight,,,,,,,10.2
+tr40,2024-04-03 13:41:31,Truck Status,,,,,,Occupied,
+tr40,2024-04-03 13:41:31,Pickup Plan ID,Pcp11,,,,,,
+tr40,2024-04-03 13:41:31,Scheduled Pickup Weight,,,,,3.0,,
+tr40,2024-04-03 13:41:31,Cargo ID,,Cr19,,,,,
+tr18,2024-04-03 13:59:07,Truck Weight,,,,,,,9.1
+tr28,2024-04-03 14:07:20,Truck Weight,,,,,,,10.3
+tr16,2024-04-03 14:07:40,Truck Weight,,,,,,,8.5
+tr17,2024-04-03 14:10:52,Truck Status,,,,,,Available,
+tr11,2024-04-03 14:11:39,Truck Status,,,,,,Occupied,
+tr11,2024-04-03 14:11:39,Pickup Plan ID,Pcp14,,,,,,
+tr11,2024-04-03 14:11:39,Scheduled Pickup Weight,,,,,2.8,,
+tr11,2024-04-03 14:11:39,Cargo ID,,Cr26,,,,,
+tr4,2024-04-03 14:14:25,Truck Weight,,,,,,,11.9
+tr15,2024-04-03 14:18:02,Truck Status,,,,,,Available,
+tr30,2024-04-03 14:21:16,Truck Weight,,,,,,,8.2
+tr35,2024-04-03 14:26:28,Truck Status,,,,,,Available,
+tr3,2024-04-03 14:40:17,Truck Status,,,,,,Available,
+tr19,2024-04-03 14:43:47,Truck Status,,,,,,Available,
+tr17,2024-04-03 14:46:40,Truck Status,,,,,,Occupied,
+tr17,2024-04-03 14:46:40,Pickup Plan ID,Pcp44,,,,,,
+tr17,2024-04-03 14:46:40,Scheduled Pickup Weight,,,,,3.2,,
+tr17,2024-04-03 14:46:40,Cargo ID,,Cr87,,,,,
+tr34,2024-04-03 14:54:11,Truck Weight,,,,,,,14.5
+tr35,2024-04-03 14:55:41,Truck Status,,,,,,Occupied,
+tr35,2024-04-03 14:55:41,Pickup Plan ID,Pcp85,,,,,,
+tr35,2024-04-03 14:55:41,Scheduled Pickup Weight,,,,,3.2,,
+tr35,2024-04-03 14:55:41,Cargo ID,,Cr80,,,,,
+tr31,2024-04-03 15:04:15,Truck Weight,,,,,,,8.6
+tr13,2024-04-03 15:12:20,Truck Weight,,,,,,,10.4
+tr42,2024-04-03 15:28:11,Truck Weight,,,,,,,7.5
+tr47,2024-04-03 15:30:18,Truck Weight,,,,,,,8.0
+tr26,2024-04-03 15:33:36,Truck Weight,,,,,,,11.8
+tr25,2024-04-03 15:33:50,Truck Weight,,,,,,,6.9
+tr48,2024-04-03 15:35:16,Truck Weight,,,,,,,10.0
+tr22,2024-04-03 15:35:45,Truck Weight,,,,,,,10.7
+tr15,2024-04-03 15:40:20,Truck Status,,,,,,Occupied,
+tr15,2024-04-03 15:40:20,Pickup Plan ID,Pcp43,,,,,,
+tr15,2024-04-03 15:40:20,Scheduled Pickup Weight,,,,,1.5,,
+tr15,2024-04-03 15:40:20,Cargo ID,,Cr77,,,,,
+tr12,2024-04-03 15:47:34,Truck Weight,,,,,,,13.2
+tr11,2024-04-03 15:51:30,Truck Weight,,,,,,,7.6
+tr1,2024-04-03 15:54:55,Truck Weight,,,,,,,12.1
+tr4,2024-04-03 16:08:36,Truck Weight,,,,,,,15.0
+tr44,2024-04-03 16:12:01,Truck Status,,,,,,Available,
+tr10,2024-04-03 16:12:21,Truck Weight,,,,,,,12.5
+tr5,2024-04-03 16:12:34,Truck Weight,,,,,,,10.5
+tr19,2024-04-03 16:18:10,Truck Status,,,,,,Occupied,
+tr19,2024-04-03 16:18:10,Pickup Plan ID,Pcp46,,,,,,
+tr19,2024-04-03 16:18:10,Scheduled Pickup Weight,,,,,3.5,,
+tr19,2024-04-03 16:18:10,Cargo ID,,Cr28,,,,,
+tr29,2024-04-03 16:18:37,Truck Weight,,,,,,,9.8
+tr3,2024-04-03 16:23:01,Truck Status,,,,,,Occupied,
+tr3,2024-04-03 16:23:01,Pickup Plan ID,Pcp83,,,,,,
+tr3,2024-04-03 16:23:01,Scheduled Pickup Weight,,,,,1.3,,
+tr3,2024-04-03 16:23:01,Cargo ID,,Cr23,,,,,
+tr9,2024-04-03 16:23:12,Truck Weight,,,,,,,13.0
+tr8,2024-04-03 16:25:20,Truck Weight,,,,,,,7.7
+tr45,2024-04-03 16:31:56,Truck Weight,,,,,,,7.6
+tr7,2024-04-03 16:36:03,Truck Weight,,,,,,,9.4
+tr34,2024-04-03 16:43:27,Truck Status,,,,,,Available,
+tr38,2024-04-03 16:48:32,Truck Status,,,,,,Available,
+tr27,2024-04-03 17:03:49,Truck Weight,,,,,,,10.8
+tr40,2024-04-03 17:03:55,Truck Weight,,,,,,,10.5
+tr13,2024-04-03 17:07:10,Truck Weight,,,,,,,13.5
+tr50,2024-04-03 17:10:23,Truck Status,,,,,,Available,
+tr46,2024-04-03 17:25:42,Truck Weight,,,,,,,10.5
+tr37,2024-04-03 17:41:58,Truck Weight,,,,,,,8.7
+tr22,2024-04-03 18:08:21,Truck Weight,,,,,,,13.0
+tr30,2024-04-03 18:15:59,Truck Weight,,,,,,,11.2
+tr21,2024-04-03 18:55:43,Truck Status,,,,,,Available,
+tr32,2024-04-04 07:19:57,Truck Weight,,,,,,,10.9
+tr16,2024-04-04 07:28:53,Truck Weight,,,,,,,9.6
+tr44,2024-04-04 07:33:40,Truck Status,,,,,,Occupied,
+tr44,2024-04-04 07:33:40,Pickup Plan ID,Pcp25,,,,,,
+tr44,2024-04-04 07:33:40,Scheduled Pickup Weight,,,,,3.0,,
+tr44,2024-04-04 07:33:40,Cargo ID,,Cr15,,,,,
+tr39,2024-04-04 07:35:57,Truck Weight,,,,,,,14.4
+tr26,2024-04-04 07:36:00,Truck Status,,,,,,Available,
+tr38,2024-04-04 08:08:15,Truck Status,,,,,,Occupied,
+tr38,2024-04-04 08:08:15,Pickup Plan ID,Pcp8,,,,,,
+tr38,2024-04-04 08:08:15,Scheduled Pickup Weight,,,,,3.7,,
+tr38,2024-04-04 08:08:15,Cargo ID,,Cr59,,,,,
+tr24,2024-04-04 08:16:18,Truck Status,,,,,,Available,
+tr31,2024-04-04 08:17:35,Truck Status,,,,,,Available,
+tr14,2024-04-04 08:26:12,Truck Weight,,,,,,,6.9
+tr23,2024-04-04 08:29:13,Truck Status,,,,,,Available,
+tr6,2024-04-04 08:30:59,Truck Weight,,,,,,,9.3
+tr9,2024-04-04 08:46:11,Truck Status,,,,,,Available,
+tr50,2024-04-04 08:53:34,Truck Status,,,,,,Occupied,
+tr50,2024-04-04 08:53:34,Pickup Plan ID,Pcp91,,,,,,
+tr50,2024-04-04 08:53:34,Scheduled Pickup Weight,,,,,1.8,,
+tr50,2024-04-04 08:53:34,Cargo ID,,Cr100,,,,,
+tr17,2024-04-04 09:06:50,Truck Weight,,,,,,,8.2
+tr34,2024-04-04 09:06:53,Truck Status,,,,,,Occupied,
+tr34,2024-04-04 09:06:53,Pickup Plan ID,Pcp35,,,,,,
+tr34,2024-04-04 09:06:53,Scheduled Pickup Weight,,,,,2.9,,
+tr34,2024-04-04 09:06:53,Cargo ID,,Cr49,,,,,
+tr36,2024-04-04 09:14:02,Truck Weight,,,,,,,9.3
+tr38,2024-04-04 09:16:03,Truck Weight,,,,,,,11.9
+tr18,2024-04-04 09:19:05,Truck Weight,,,,,,,11.6
+tr12,2024-04-04 09:19:14,Truck Status,,,,,,Available,
+tr31,2024-04-04 09:19:51,Truck Status,,,,,,Occupied,
+tr31,2024-04-04 09:19:51,Pickup Plan ID,Pcp55,,,,,,
+tr31,2024-04-04 09:19:51,Scheduled Pickup Weight,,,,,3.2,,
+tr31,2024-04-04 09:19:51,Cargo ID,,Cr54,,,,,
+tr49,2024-04-04 09:23:57,Truck Status,,,,,,Available,
+tr4,2024-04-04 09:26:02,Truck Status,,,,,,Available,
+tr47,2024-04-04 09:27:20,Truck Status,,,,,,Available,
+tr13,2024-04-04 09:35:18,Truck Status,,,,,,Available,
+tr24,2024-04-04 09:35:58,Truck Status,,,,,,Occupied,
+tr24,2024-04-04 09:35:58,Pickup Plan ID,Pcp22,,,,,,
+tr24,2024-04-04 09:35:58,Scheduled Pickup Weight,,,,,1.1,,
+tr24,2024-04-04 09:35:58,Cargo ID,,Cr88,,,,,
+tr4,2024-04-04 09:42:38,Truck Status,,,,,,Occupied,
+tr4,2024-04-04 09:42:38,Pickup Plan ID,Pcp71,,,,,,
+tr4,2024-04-04 09:42:38,Scheduled Pickup Weight,,,,,3.8,,
+tr4,2024-04-04 09:42:38,Cargo ID,,Cr16,,,,,
+tr48,2024-04-04 09:44:43,Truck Weight,,,,,,,13.1
+tr1,2024-04-04 09:44:49,Truck Status,,,,,,Available,
+tr26,2024-04-04 09:47:16,Truck Status,,,,,,Occupied,
+tr26,2024-04-04 09:47:16,Pickup Plan ID,Pcp15,,,,,,
+tr26,2024-04-04 09:47:16,Scheduled Pickup Weight,,,,,3.1,,
+tr26,2024-04-04 09:47:16,Cargo ID,,Cr20,,,,,
+tr2,2024-04-04 09:47:29,Truck Weight,,,,,,,7.9
+tr23,2024-04-04 09:52:32,Truck Status,,,,,,Occupied,
+tr23,2024-04-04 09:52:32,Pickup Plan ID,Pcp93,,,,,,
+tr23,2024-04-04 09:52:32,Scheduled Pickup Weight,,,,,0.9,,
+tr23,2024-04-04 09:52:32,Cargo ID,,Cr71,,,,,
+tr5,2024-04-04 09:55:38,Truck Status,,,,,,Available,
+tr47,2024-04-04 09:58:04,Truck Status,,,,,,Occupied,
+tr47,2024-04-04 09:58:04,Pickup Plan ID,Pcp78,,,,,,
+tr47,2024-04-04 09:58:04,Scheduled Pickup Weight,,,,,3.1,,
+tr47,2024-04-04 09:58:04,Cargo ID,,Cr96,,,,,
+tr43,2024-04-04 10:02:02,Truck Weight,,,,,,,10.4
+tr22,2024-04-04 10:12:47,Truck Status,,,,,,Available,
+tr21,2024-04-04 10:17:42,Truck Status,,,,,,Occupied,
+tr21,2024-04-04 10:17:42,Pickup Plan ID,Pcp34,,,,,,
+tr21,2024-04-04 10:17:42,Scheduled Pickup Weight,,,,,2.9,,
+tr21,2024-04-04 10:17:42,Cargo ID,,Cr50,,,,,
+tr42,2024-04-04 10:27:29,Truck Weight,,,,,,,10.8
+tr9,2024-04-04 10:27:51,Truck Status,,,,,,Occupied,
+tr9,2024-04-04 10:27:51,Pickup Plan ID,Pcp10,,,,,,
+tr9,2024-04-04 10:27:51,Scheduled Pickup Weight,,,,,3.0,,
+tr9,2024-04-04 10:27:51,Cargo ID,,Cr93,,,,,
+tr20,2024-04-04 10:28:11,Truck Weight,,,,,,,10.5
+tr49,2024-04-04 10:30:43,Truck Status,,,,,,Occupied,
+tr49,2024-04-04 10:30:43,Pickup Plan ID,Pcp27,,,,,,
+tr49,2024-04-04 10:30:43,Scheduled Pickup Weight,,,,,3.0,,
+tr49,2024-04-04 10:30:43,Cargo ID,,Cr43,,,,,
+tr33,2024-04-04 10:32:19,Truck Weight,,,,,,,12.0
+tr6,2024-04-04 10:35:48,Truck Status,,,,,,Available,
+tr10,2024-04-04 10:38:18,Truck Weight,,,,,,,15.1
+tr13,2024-04-04 10:38:20,Truck Status,,,,,,Occupied,
+tr13,2024-04-04 10:38:20,Pickup Plan ID,Pcp4,,,,,,
+tr13,2024-04-04 10:38:20,Scheduled Pickup Weight,,,,,3.5,,
+tr13,2024-04-04 10:38:20,Cargo ID,,Cr44,,,,,
+tr27,2024-04-04 10:43:45,Truck Weight,,,,,,,13.4
+tr18,2024-04-04 10:44:29,Truck Status,,,,,,Available,
+tr22,2024-04-04 10:46:43,Truck Status,,,,,,Occupied,
+tr22,2024-04-04 10:46:43,Pickup Plan ID,Pcp89,,,,,,
+tr22,2024-04-04 10:46:43,Scheduled Pickup Weight,,,,,2.8,,
+tr22,2024-04-04 10:46:43,Cargo ID,,Cr63,,,,,
+tr1,2024-04-04 10:50:11,Truck Status,,,,,,Occupied,
+tr1,2024-04-04 10:50:11,Pickup Plan ID,Pcp46,,,,,,
+tr1,2024-04-04 10:50:11,Scheduled Pickup Weight,,,,,3.3,,
+tr1,2024-04-04 10:50:11,Cargo ID,,Cr28,,,,,
+tr12,2024-04-04 10:50:48,Truck Status,,,,,,Occupied,
+tr12,2024-04-04 10:50:48,Pickup Plan ID,Pcp46,,,,,,
+tr12,2024-04-04 10:50:48,Scheduled Pickup Weight,,,,,2.8,,
+tr12,2024-04-04 10:50:48,Cargo ID,,Cr28,,,,,
+tr7,2024-04-04 10:53:37,Truck Status,,,,,,Available,
+tr25,2024-04-04 10:59:47,Truck Weight,,,,,,,8.5
+tr46,2024-04-04 11:09:38,Truck Status,,,,,,Available,
+tr14,2024-04-04 11:17:01,Truck Status,,,,,,Available,
+tr5,2024-04-04 11:22:26,Truck Status,,,,,,Occupied,
+tr5,2024-04-04 11:22:26,Pickup Plan ID,Pcp2,,,,,,
+tr5,2024-04-04 11:22:26,Scheduled Pickup Weight,,,,,2.9,,
+tr5,2024-04-04 11:22:26,Cargo ID,,Cr1,,,,,
+tr28,2024-04-04 11:35:48,Truck Weight,,,,,,,13.5
+tr48,2024-04-04 11:38:36,Truck Status,,,,,,Available,
+tr16,2024-04-04 11:46:09,Truck Status,,,,,,Available,
+tr41,2024-04-04 11:46:30,Truck Weight,,,,,,,10.5
+tr6,2024-04-04 11:51:03,Truck Status,,,,,,Occupied,
+tr6,2024-04-04 11:51:03,Pickup Plan ID,Pcp54,,,,,,
+tr6,2024-04-04 11:51:03,Scheduled Pickup Weight,,,,,0.7,,
+tr6,2024-04-04 11:51:03,Cargo ID,,Cr68,,,,,
+tr40,2024-04-04 11:58:00,Truck Weight,,,,,,,13.5
+tr29,2024-04-04 11:58:57,Truck Weight,,,,,,,12.5
+tr49,2024-04-04 12:00:08,Truck Weight,,,,,,,7.9
+tr15,2024-04-04 12:00:16,Truck Weight,,,,,,,10.5
+tr50,2024-04-04 12:01:42,Truck Weight,,,,,,,10.6
+tr37,2024-04-04 12:03:06,Truck Status,,,,,,Available,
+tr19,2024-04-04 12:10:19,Truck Weight,,,,,,,9.9
+tr38,2024-04-04 12:19:10,Truck Weight,,,,,,,15.6
+tr18,2024-04-04 12:19:10,Truck Status,,,,,,Occupied,
+tr18,2024-04-04 12:19:10,Pickup Plan ID,Pcp3,,,,,,
+tr18,2024-04-04 12:19:10,Scheduled Pickup Weight,,,,,3.0,,
+tr18,2024-04-04 12:19:10,Cargo ID,,Cr11,,,,,
+tr23,2024-04-04 12:24:11,Truck Weight,,,,,,,11.7
+tr4,2024-04-04 12:27:28,Truck Weight,,,,,,,12.0
+tr7,2024-04-04 12:45:51,Truck Status,,,,,,Occupied,
+tr7,2024-04-04 12:45:51,Pickup Plan ID,Pcp85,,,,,,
+tr7,2024-04-04 12:45:51,Scheduled Pickup Weight,,,,,2.9,,
+tr7,2024-04-04 12:45:51,Cargo ID,,Cr80,,,,,
+tr32,2024-04-04 12:46:29,Truck Weight,,,,,,,14.0
+tr34,2024-04-04 13:11:26,Truck Weight,,,,,,,8.4
+tr43,2024-04-04 13:19:07,Truck Weight,,,,,,,13.5
+tr3,2024-04-04 13:23:03,Truck Weight,,,,,,,11.8
+tr46,2024-04-04 13:23:30,Truck Status,,,,,,Occupied,
+tr46,2024-04-04 13:23:30,Pickup Plan ID,Pcp79,,,,,,
+tr46,2024-04-04 13:23:30,Scheduled Pickup Weight,,,,,2.5,,
+tr46,2024-04-04 13:23:30,Cargo ID,,Cr98,,,,,
+tr14,2024-04-04 13:46:45,Truck Status,,,,,,Occupied,
+tr14,2024-04-04 13:46:45,Pickup Plan ID,Pcp55,,,,,,
+tr14,2024-04-04 13:46:45,Scheduled Pickup Weight,,,,,3.2,,
+tr14,2024-04-04 13:46:45,Cargo ID,,Cr54,,,,,
+tr2,2024-04-04 13:48:08,Truck Status,,,,,,Available,
+tr37,2024-04-04 13:48:15,Truck Status,,,,,,Occupied,
+tr37,2024-04-04 13:48:15,Pickup Plan ID,Pcp89,,,,,,
+tr37,2024-04-04 13:48:15,Scheduled Pickup Weight,,,,,2.9,,
+tr37,2024-04-04 13:48:15,Cargo ID,,Cr63,,,,,
+tr16,2024-04-04 13:50:55,Truck Status,,,,,,Occupied,
+tr16,2024-04-04 13:50:55,Pickup Plan ID,Pcp48,,,,,,
+tr16,2024-04-04 13:50:55,Scheduled Pickup Weight,,,,,3.7,,
+tr16,2024-04-04 13:50:55,Cargo ID,,Cr48,,,,,
+tr26,2024-04-04 13:54:04,Truck Weight,,,,,,,12.1
+tr33,2024-04-04 13:55:10,Truck Status,,,,,,Available,
+tr27,2024-04-04 13:57:24,Truck Status,,,,,,Available,
+tr48,2024-04-04 14:00:23,Truck Status,,,,,,Occupied,
+tr48,2024-04-04 14:00:23,Pickup Plan ID,Pcp65,,,,,,
+tr48,2024-04-04 14:00:23,Scheduled Pickup Weight,,,,,3.6,,
+tr48,2024-04-04 14:00:23,Cargo ID,,Cr55,,,,,
+tr39,2024-04-04 14:02:49,Truck Status,,,,,,Available,
+tr45,2024-04-04 14:19:41,Truck Weight,,,,,,,10.9
+tr10,2024-04-04 14:20:30,Truck Status,,,,,,Available,
+tr11,2024-04-04 14:29:14,Truck Weight,,,,,,,10.4
+tr6,2024-04-04 14:32:16,Truck Weight,,,,,,,7.9
+tr34,2024-04-04 14:33:11,Truck Weight,,,,,,,11.3
+tr46,2024-04-04 14:40:58,Truck Weight,,,,,,,7.5
+tr44,2024-04-04 14:42:51,Truck Weight,,,,,,,8.9
+tr10,2024-04-04 14:48:29,Truck Status,,,,,,Occupied,
+tr10,2024-04-04 14:48:29,Pickup Plan ID,Pcp3,,,,,,
+tr10,2024-04-04 14:48:29,Scheduled Pickup Weight,,,,,3.5,,
+tr10,2024-04-04 14:48:29,Cargo ID,,Cr11,,,,,
+tr39,2024-04-04 14:49:25,Truck Status,,,,,,Occupied,
+tr39,2024-04-04 14:49:25,Pickup Plan ID,Pcp24,,,,,,
+tr39,2024-04-04 14:49:25,Scheduled Pickup Weight,,,,,2.4,,
+tr39,2024-04-04 14:49:25,Cargo ID,,Cr73,,,,,
+tr42,2024-04-04 14:54:49,Truck Status,,,,,,Available,
+tr8,2024-04-04 15:00:31,Truck Weight,,,,,,,10.2
+tr20,2024-04-04 15:05:35,Truck Weight,,,,,,,10.7
+tr35,2024-04-04 15:05:37,Truck Weight,,,,,,,6.9
+tr17,2024-04-04 15:06:16,Truck Weight,,,,,,,11.4
+tr19,2024-04-04 15:06:41,Truck Weight,,,,,,,13.4
+tr36,2024-04-04 15:09:09,Truck Weight,,,,,,,10.2
+tr2,2024-04-04 15:09:55,Truck Status,,,,,,Occupied,
+tr2,2024-04-04 15:09:55,Pickup Plan ID,Pcp51,,,,,,
+tr2,2024-04-04 15:09:55,Scheduled Pickup Weight,,,,,3.0,,
+tr2,2024-04-04 15:09:55,Cargo ID,,Cr12,,,,,
+tr12,2024-04-04 15:12:39,Truck Weight,,,,,,,10.9
+tr27,2024-04-04 15:15:48,Truck Status,,,,,,Occupied,
+tr27,2024-04-04 15:15:48,Pickup Plan ID,Pcp60,,,,,,
+tr27,2024-04-04 15:15:48,Scheduled Pickup Weight,,,,,2.3,,
+tr27,2024-04-04 15:15:48,Cargo ID,,Cr4,,,,,
+tr43,2024-04-04 15:28:43,Truck Status,,,,,,Available,
+tr25,2024-04-04 15:43:35,Truck Status,,,,,,Available,
+tr24,2024-04-04 15:47:03,Truck Weight,,,,,,,10.5
+tr9,2024-04-04 16:02:06,Truck Weight,,,,,,,11.3
+tr33,2024-04-04 16:03:38,Truck Status,,,,,,Occupied,
+tr33,2024-04-04 16:03:38,Pickup Plan ID,Pcp61,,,,,,
+tr33,2024-04-04 16:03:38,Scheduled Pickup Weight,,,,,1.9,,
+tr33,2024-04-04 16:03:38,Cargo ID,,Cr42,,,,,
+tr18,2024-04-04 16:03:49,Truck Weight,,,,,,,9.2
+tr28,2024-04-04 16:19:30,Truck Status,,,,,,Available,
+tr50,2024-04-04 16:26:54,Truck Weight,,,,,,,12.4
+tr23,2024-04-04 16:34:57,Truck Weight,,,,,,,12.6
+tr6,2024-04-04 16:37:40,Truck Weight,,,,,,,8.6
+tr28,2024-04-04 16:39:29,Truck Status,,,,,,Occupied,
+tr28,2024-04-04 16:39:29,Pickup Plan ID,Pcp43,,,,,,
+tr28,2024-04-04 16:39:29,Scheduled Pickup Weight,,,,,2.1,,
+tr28,2024-04-04 16:39:29,Cargo ID,,Cr77,,,,,
+tr42,2024-04-04 16:42:34,Truck Status,,,,,,Occupied,
+tr42,2024-04-04 16:42:34,Pickup Plan ID,Pcp66,,,,,,
+tr42,2024-04-04 16:42:34,Scheduled Pickup Weight,,,,,2.7,,
+tr42,2024-04-04 16:42:34,Cargo ID,,Cr32,,,,,
+tr19,2024-04-04 16:47:18,Truck Status,,,,,,Available,
+tr12,2024-04-04 16:51:09,Truck Weight,,,,,,,13.7
+tr11,2024-04-04 16:51:43,Truck Status,,,,,,Available,
+tr43,2024-04-04 16:53:21,Truck Status,,,,,,Occupied,
+tr43,2024-04-04 16:53:21,Pickup Plan ID,Pcp14,,,,,,
+tr43,2024-04-04 16:53:21,Scheduled Pickup Weight,,,,,2.9,,
+tr43,2024-04-04 16:53:21,Cargo ID,,Cr26,,,,,
+tr20,2024-04-04 17:03:56,Truck Status,,,,,,Available,
+tr3,2024-04-04 17:10:16,Truck Weight,,,,,,,13.1
+tr34,2024-04-04 17:14:15,Truck Status,,,,,,Available,
+tr49,2024-04-04 17:15:03,Truck Weight,,,,,,,10.9
+tr10,2024-04-04 17:19:16,Truck Weight,,,,,,,6.5
+tr25,2024-04-04 17:21:15,Truck Status,,,,,,Occupied,
+tr25,2024-04-04 17:21:15,Pickup Plan ID,Pcp14,,,,,,
+tr25,2024-04-04 17:21:15,Scheduled Pickup Weight,,,,,2.7,,
+tr25,2024-04-04 17:21:15,Cargo ID,,Cr26,,,,,
+tr36,2024-04-04 17:40:07,Truck Status,,,,,,Available,
+tr45,2024-04-04 17:41:23,Truck Status,,,,,,Available,
+tr32,2024-04-04 17:41:23,Truck Status,,,,,,Available,
+tr31,2024-04-04 17:51:13,Truck Weight,,,,,,,10.6
+tr38,2024-04-04 17:53:54,Truck Status,,,,,,Available,
+tr11,2024-04-04 18:28:22,Truck Status,,,,,,Occupied,
+tr11,2024-04-04 18:28:22,Pickup Plan ID,Pcp23,,,,,,
+tr11,2024-04-04 18:28:22,Scheduled Pickup Weight,,,,,2.6,,
+tr11,2024-04-04 18:28:22,Cargo ID,,Cr39,,,,,
+tr29,2024-04-04 18:56:40,Truck Status,,,,,,Available,
+tr17,2024-04-05 07:01:13,Truck Status,,,,,,Available,
+tr34,2024-04-05 07:17:50,Truck Status,,,,,,Occupied,
+tr34,2024-04-05 07:17:50,Pickup Plan ID,Pcp62,,,,,,
+tr34,2024-04-05 07:17:50,Scheduled Pickup Weight,,,,,3.7,,
+tr34,2024-04-05 07:17:50,Cargo ID,,Cr52,,,,,
+tr40,2024-04-05 07:49:01,Truck Status,,,,,,Available,
+tr22,2024-04-05 08:03:06,Truck Weight,,,,,,,12.3
+tr4,2024-04-05 08:04:32,Truck Weight,,,,,,,15.8
+tr15,2024-04-05 08:05:18,Truck Weight,,,,,,,12.0
+tr19,2024-04-05 08:09:16,Truck Status,,,,,,Occupied,
+tr19,2024-04-05 08:09:16,Pickup Plan ID,Pcp58,,,,,,
+tr19,2024-04-05 08:09:16,Scheduled Pickup Weight,,,,,1.7,,
+tr19,2024-04-05 08:09:16,Cargo ID,,Cr57,,,,,
+tr20,2024-04-05 08:14:46,Truck Status,,,,,,Occupied,
+tr20,2024-04-05 08:14:46,Pickup Plan ID,Pcp50,,,,,,
+tr20,2024-04-05 08:14:46,Scheduled Pickup Weight,,,,,2.3,,
+tr20,2024-04-05 08:14:46,Cargo ID,,Cr36,,,,,
+tr8,2024-04-05 08:23:54,Truck Status,,,,,,Available,
+tr1,2024-04-05 08:26:46,Truck Weight,,,,,,,10.5
+tr17,2024-04-05 08:28:07,Truck Status,,,,,,Occupied,
+tr17,2024-04-05 08:28:07,Pickup Plan ID,Pcp72,,,,,,
+tr17,2024-04-05 08:28:07,Scheduled Pickup Weight,,,,,2.9,,
+tr17,2024-04-05 08:28:07,Cargo ID,,Cr2,,,,,
+tr14,2024-04-05 08:43:12,Truck Weight,,,,,,,11.9
+tr18,2024-04-05 09:25:05,Truck Weight,,,,,,,12.2
+tr21,2024-04-05 09:29:15,Truck Weight,,,,,,,8.0
+tr6,2024-04-05 09:30:29,Truck Status,,,,,,Available,
+tr45,2024-04-05 09:32:25,Truck Status,,,,,,Occupied,
+tr45,2024-04-05 09:32:25,Pickup Plan ID,Pcp25,,,,,,
+tr45,2024-04-05 09:32:25,Scheduled Pickup Weight,,,,,3.0,,
+tr45,2024-04-05 09:32:25,Cargo ID,,Cr15,,,,,
+tr11,2024-04-05 09:35:06,Truck Weight,,,,,,,8.5
+tr40,2024-04-05 09:37:43,Truck Status,,,,,,Occupied,
+tr40,2024-04-05 09:37:43,Pickup Plan ID,Pcp66,,,,,,
+tr40,2024-04-05 09:37:43,Scheduled Pickup Weight,,,,,2.6,,
+tr40,2024-04-05 09:37:43,Cargo ID,,Cr32,,,,,
+tr23,2024-04-05 09:49:56,Truck Status,,,,,,Available,
+tr50,2024-04-05 09:52:39,Truck Status,,,,,,Available,
+tr16,2024-04-05 09:52:48,Truck Weight,,,,,,,6.7
+tr36,2024-04-05 09:53:38,Truck Status,,,,,,Occupied,
+tr36,2024-04-05 09:53:38,Pickup Plan ID,Pcp46,,,,,,
+tr36,2024-04-05 09:53:38,Scheduled Pickup Weight,,,,,3.2,,
+tr36,2024-04-05 09:53:38,Cargo ID,,Cr28,,,,,
+tr41,2024-04-05 09:54:00,Truck Status,,,,,,Available,
+tr47,2024-04-05 09:56:06,Truck Weight,,,,,,,8.5
+tr3,2024-04-05 09:56:50,Truck Status,,,,,,Available,
+tr32,2024-04-05 09:58:50,Truck Status,,,,,,Occupied,
+tr32,2024-04-05 09:58:50,Pickup Plan ID,Pcp2,,,,,,
+tr32,2024-04-05 09:58:50,Scheduled Pickup Weight,,,,,3.3,,
+tr32,2024-04-05 09:58:50,Cargo ID,,Cr1,,,,,
+tr48,2024-04-05 10:03:40,Truck Weight,,,,,,,7.9
+tr13,2024-04-05 10:15:58,Truck Weight,,,,,,,11.5
+tr30,2024-04-05 10:20:11,Truck Status,,,,,,Available,
+tr27,2024-04-05 10:24:02,Truck Weight,,,,,,,10.3
+tr38,2024-04-05 10:30:20,Truck Status,,,,,,Occupied,
+tr38,2024-04-05 10:30:20,Pickup Plan ID,Pcp11,,,,,,
+tr38,2024-04-05 10:30:20,Scheduled Pickup Weight,,,,,2.5,,
+tr38,2024-04-05 10:30:20,Cargo ID,,Cr19,,,,,
+tr29,2024-04-05 10:34:48,Truck Status,,,,,,Occupied,
+tr29,2024-04-05 10:34:48,Pickup Plan ID,Pcp76,,,,,,
+tr29,2024-04-05 10:34:48,Scheduled Pickup Weight,,,,,3.1,,
+tr29,2024-04-05 10:34:48,Cargo ID,,Cr69,,,,,
+tr49,2024-04-05 10:41:11,Truck Status,,,,,,Available,
+tr46,2024-04-05 10:42:13,Truck Weight,,,,,,,10.0
+tr9,2024-04-05 10:44:44,Truck Weight,,,,,,,14.3
+tr25,2024-04-05 10:46:33,Truck Weight,,,,,,,9.8
+tr24,2024-04-05 10:48:17,Truck Weight,,,,,,,11.6
+tr8,2024-04-05 10:51:58,Truck Status,,,,,,Occupied,
+tr8,2024-04-05 10:51:58,Pickup Plan ID,Pcp6,,,,,,
+tr8,2024-04-05 10:51:58,Scheduled Pickup Weight,,,,,3.5,,
+tr8,2024-04-05 10:51:58,Cargo ID,,Cr81,,,,,
+tr26,2024-04-05 10:52:38,Truck Weight,,,,,,,15.2
+tr43,2024-04-05 10:54:59,Truck Weight,,,,,,,10.0
+tr39,2024-04-05 10:56:35,Truck Weight,,,,,,,11.0
+tr5,2024-04-05 11:05:20,Truck Weight,,,,,,,10.7
+tr19,2024-04-05 11:20:50,Truck Weight,,,,,,,11.7
+tr6,2024-04-05 11:24:37,Truck Status,,,,,,Occupied,
+tr6,2024-04-05 11:24:37,Pickup Plan ID,Pcp53,,,,,,
+tr6,2024-04-05 11:24:37,Scheduled Pickup Weight,,,,,3.5,,
+tr6,2024-04-05 11:24:37,Cargo ID,,Cr75,,,,,
+tr50,2024-04-05 11:28:41,Truck Status,,,,,,Occupied,
+tr50,2024-04-05 11:28:41,Pickup Plan ID,Pcp48,,,,,,
+tr50,2024-04-05 11:28:41,Scheduled Pickup Weight,,,,,3.2,,
+tr50,2024-04-05 11:28:41,Cargo ID,,Cr48,,,,,
+tr44,2024-04-05 11:40:41,Truck Weight,,,,,,,11.9
+tr12,2024-04-05 11:46:54,Truck Status,,,,,,Available,
+tr14,2024-04-05 11:50:22,Truck Weight,,,,,,,15.1
+tr30,2024-04-05 11:50:58,Truck Status,,,,,,Occupied,
+tr30,2024-04-05 11:50:58,Pickup Plan ID,Pcp31,,,,,,
+tr30,2024-04-05 11:50:58,Scheduled Pickup Weight,,,,,2.9,,
+tr30,2024-04-05 11:50:58,Cargo ID,,Cr5,,,,,
+tr41,2024-04-05 11:55:27,Truck Status,,,,,,Occupied,
+tr41,2024-04-05 11:55:27,Pickup Plan ID,Pcp66,,,,,,
+tr41,2024-04-05 11:55:27,Scheduled Pickup Weight,,,,,3.0,,
+tr41,2024-04-05 11:55:27,Cargo ID,,Cr32,,,,,
+tr18,2024-04-05 12:00:42,Truck Status,,,,,,Available,
+tr3,2024-04-05 12:09:32,Truck Status,,,,,,Occupied,
+tr3,2024-04-05 12:09:32,Pickup Plan ID,Pcp70,,,,,,
+tr3,2024-04-05 12:09:32,Scheduled Pickup Weight,,,,,0.9,,
+tr3,2024-04-05 12:09:32,Cargo ID,,Cr7,,,,,
+tr49,2024-04-05 12:16:51,Truck Status,,,,,,Occupied,
+tr49,2024-04-05 12:16:51,Pickup Plan ID,Pcp100,,,,,,
+tr49,2024-04-05 12:16:51,Scheduled Pickup Weight,,,,,1.1,,
+tr49,2024-04-05 12:16:51,Cargo ID,,Cr74,,,,,
+tr45,2024-04-05 12:21:42,Truck Weight,,,,,,,8.6
+tr23,2024-04-05 12:30:34,Truck Status,,,,,,Occupied,
+tr23,2024-04-05 12:30:34,Pickup Plan ID,Pcp8,,,,,,
+tr23,2024-04-05 12:30:34,Scheduled Pickup Weight,,,,,3.6,,
+tr23,2024-04-05 12:30:34,Cargo ID,,Cr59,,,,,
+tr18,2024-04-05 13:38:13,Truck Status,,,,,,Occupied,
+tr18,2024-04-05 13:38:13,Pickup Plan ID,Pcp67,,,,,,
+tr18,2024-04-05 13:38:13,Scheduled Pickup Weight,,,,,0.9,,
+tr18,2024-04-05 13:38:13,Cargo ID,,Cr58,,,,,
+tr4,2024-04-05 13:44:43,Truck Status,,,,,,Available,
+tr31,2024-04-05 13:50:02,Truck Weight,,,,,,,13.8
+tr9,2024-04-05 13:53:59,Truck Status,,,,,,Available,
+tr48,2024-04-05 13:56:25,Truck Weight,,,,,,,11.5
+tr16,2024-04-05 14:01:38,Truck Weight,,,,,,,10.4
+tr35,2024-04-05 14:07:41,Truck Weight,,,,,,,10.1
+tr7,2024-04-05 14:19:11,Truck Weight,,,,,,,7.5
+tr33,2024-04-05 14:27:02,Truck Weight,,,,,,,6.6
+tr20,2024-04-05 14:30:49,Truck Weight,,,,,,,11.2
+tr1,2024-04-05 14:31:33,Truck Weight,,,,,,,13.8
+tr17,2024-04-05 14:32:46,Truck Weight,,,,,,,10.5
+tr11,2024-04-05 14:34:58,Truck Weight,,,,,,,11.1
+tr12,2024-04-05 14:35:24,Truck Status,,,,,,Occupied,
+tr12,2024-04-05 14:35:24,Pickup Plan ID,Pcp51,,,,,,
+tr12,2024-04-05 14:35:24,Scheduled Pickup Weight,,,,,3.4,,
+tr12,2024-04-05 14:35:24,Cargo ID,,Cr12,,,,,
+tr50,2024-04-05 14:36:11,Truck Weight,,,,,,,7.8
+tr2,2024-04-05 14:39:06,Truck Weight,,,,,,,8.8
+tr15,2024-04-05 14:40:26,Truck Status,,,,,,Available,
+tr37,2024-04-05 14:41:55,Truck Weight,,,,,,,8.6
+tr46,2024-04-05 14:55:32,Truck Status,,,,,,Available,
+tr4,2024-04-05 15:06:35,Truck Status,,,,,,Occupied,
+tr4,2024-04-05 15:06:35,Pickup Plan ID,Pcp57,,,,,,
+tr4,2024-04-05 15:06:35,Scheduled Pickup Weight,,,,,2.6,,
+tr4,2024-04-05 15:06:35,Cargo ID,,Cr94,,,,,
+tr13,2024-04-05 15:34:49,Truck Weight,,,,,,,15.0
+tr25,2024-04-05 15:35:19,Truck Weight,,,,,,,12.5
+tr9,2024-04-05 15:35:36,Truck Status,,,,,,Occupied,
+tr9,2024-04-05 15:35:36,Pickup Plan ID,Pcp85,,,,,,
+tr9,2024-04-05 15:35:36,Scheduled Pickup Weight,,,,,3.1,,
+tr9,2024-04-05 15:35:36,Cargo ID,,Cr80,,,,,
+tr6,2024-04-05 15:38:00,Truck Weight,,,,,,,11.2
+tr3,2024-04-05 15:44:02,Truck Weight,,,,,,,11.6
+tr24,2024-04-05 15:52:45,Truck Status,,,,,,Available,
+tr18,2024-04-05 15:55:05,Truck Weight,,,,,,,10.0
+tr35,2024-04-05 15:55:38,Truck Status,,,,,,Available,
+tr16,2024-04-05 15:59:48,Truck Status,,,,,,Available,
+tr15,2024-04-05 16:10:30,Truck Status,,,,,,Occupied,
+tr15,2024-04-05 16:10:30,Pickup Plan ID,Pcp1,,,,,,
+tr15,2024-04-05 16:10:30,Scheduled Pickup Weight,,,,,3.4,,
+tr15,2024-04-05 16:10:30,Cargo ID,,Cr95,,,,,
+tr47,2024-04-05 16:14:41,Truck Weight,,,,,,,11.6
+tr40,2024-04-05 16:15:18,Truck Weight,,,,,,,9.6
+tr42,2024-04-05 16:23:55,Truck Weight,,,,,,,8.4
+tr22,2024-04-05 16:25:42,Truck Weight,,,,,,,15.1
+tr46,2024-04-05 16:26:49,Truck Status,,,,,,Occupied,
+tr46,2024-04-05 16:26:49,Pickup Plan ID,Pcp63,,,,,,
+tr46,2024-04-05 16:26:49,Scheduled Pickup Weight,,,,,3.2,,
+tr46,2024-04-05 16:26:49,Cargo ID,,Cr3,,,,,
+tr2,2024-04-05 16:27:42,Truck Weight,,,,,,,11.8
+tr43,2024-04-05 16:28:53,Truck Weight,,,,,,,12.9
+tr21,2024-04-05 16:31:08,Truck Weight,,,,,,,10.9
+tr26,2024-04-05 16:40:37,Truck Status,,,,,,Available,
+tr25,2024-04-05 16:40:40,Truck Status,,,,,,Available,
+tr17,2024-04-05 16:48:03,Truck Weight,,,,,,,13.4
+tr27,2024-04-05 16:49:22,Truck Weight,,,,,,,12.6
+tr9,2024-04-05 16:55:04,Truck Weight,,,,,,,7.6
+tr28,2024-04-05 16:59:26,Truck Weight,,,,,,,6.6
+tr38,2024-04-05 17:21:04,Truck Weight,,,,,,,7.5
+tr10,2024-04-05 17:22:07,Truck Weight,,,,,,,10.0
+tr8,2024-04-05 17:30:15,Truck Weight,,,,,,,8.3
+tr24,2024-04-05 17:45:32,Truck Status,,,,,,Occupied,
+tr24,2024-04-05 17:45:32,Pickup Plan ID,Pcp63,,,,,,
+tr24,2024-04-05 17:45:32,Scheduled Pickup Weight,,,,,3.2,,
+tr24,2024-04-05 17:45:32,Cargo ID,,Cr3,,,,,
+tr19,2024-04-05 17:51:22,Truck Weight,,,,,,,13.4
+tr16,2024-04-05 17:53:59,Truck Status,,,,,,Occupied,
+tr16,2024-04-05 17:53:59,Pickup Plan ID,Pcp9,,,,,,
+tr16,2024-04-05 17:53:59,Scheduled Pickup Weight,,,,,2.6,,
+tr16,2024-04-05 17:53:59,Cargo ID,,Cr82,,,,,
+tr32,2024-04-05 18:09:21,Truck Weight,,,,,,,12.1
+tr26,2024-04-05 18:22:51,Truck Status,,,,,,Occupied,
+tr26,2024-04-05 18:22:51,Pickup Plan ID,Pcp62,,,,,,
+tr26,2024-04-05 18:22:51,Scheduled Pickup Weight,,,,,3.4,,
+tr26,2024-04-05 18:22:51,Cargo ID,,Cr52,,,,,
+tr1,2024-04-08 07:33:04,Truck Status,,,,,,Available,
+tr14,2024-04-08 07:52:27,Truck Status,,,,,,Available,
+tr31,2024-04-08 08:07:29,Truck Status,,,,,,Available,
+tr5,2024-04-08 08:21:22,Truck Weight,,,,,,,13.6
+tr20,2024-04-08 08:26:26,Truck Weight,,,,,,,13.5
+tr11,2024-04-08 08:28:58,Truck Status,,,,,,Available,
+tr35,2024-04-08 08:41:50,Truck Status,,,,,,Occupied,
+tr35,2024-04-08 08:41:50,Pickup Plan ID,Pcp62,,,,,,
+tr35,2024-04-08 08:41:50,Scheduled Pickup Weight,,,,,3.5,,
+tr35,2024-04-08 08:41:50,Cargo ID,,Cr52,,,,,
+tr24,2024-04-08 08:52:42,Truck Weight,,,,,,,11.3
+tr13,2024-04-08 08:53:36,Truck Status,,,,,,Available,
+tr44,2024-04-08 08:58:33,Truck Status,,,,,,Available,
+tr6,2024-04-08 09:00:14,Truck Weight,,,,,,,14.7
+tr34,2024-04-08 09:01:14,Truck Weight,,,,,,,9.5
+tr12,2024-04-08 09:02:05,Truck Weight,,,,,,,8.8
+tr25,2024-04-08 09:12:05,Truck Status,,,,,,Occupied,
+tr25,2024-04-08 09:12:05,Pickup Plan ID,Pcp59,,,,,,
+tr25,2024-04-08 09:12:05,Scheduled Pickup Weight,,,,,2.2,,
+tr25,2024-04-08 09:12:05,Cargo ID,,Cr45,,,,,
+tr1,2024-04-08 09:18:52,Truck Status,,,,,,Occupied,
+tr1,2024-04-08 09:18:52,Pickup Plan ID,Pcp74,,,,,,
+tr1,2024-04-08 09:18:52,Scheduled Pickup Weight,,,,,3.1,,
+tr1,2024-04-08 09:18:52,Cargo ID,,Cr97,,,,,
+tr45,2024-04-08 09:19:24,Truck Weight,,,,,,,11.6
+tr14,2024-04-08 09:26:14,Truck Status,,,,,,Occupied,
+tr14,2024-04-08 09:26:14,Pickup Plan ID,Pcp48,,,,,,
+tr14,2024-04-08 09:26:14,Scheduled Pickup Weight,,,,,3.8,,
+tr14,2024-04-08 09:26:14,Cargo ID,,Cr48,,,,,
+tr48,2024-04-08 09:31:40,Truck Status,,,,,,Available,
+tr42,2024-04-08 09:35:38,Truck Weight,,,,,,,11.1
+tr33,2024-04-08 09:36:57,Truck Weight,,,,,,,8.5
+tr11,2024-04-08 09:38:12,Truck Status,,,,,,Occupied,
+tr11,2024-04-08 09:38:12,Pickup Plan ID,Pcp50,,,,,,
+tr11,2024-04-08 09:38:12,Scheduled Pickup Weight,,,,,2.5,,
+tr11,2024-04-08 09:38:12,Cargo ID,,Cr36,,,,,
+tr47,2024-04-08 09:41:15,Truck Status,,,,,,Available,
+tr22,2024-04-08 09:42:30,Truck Status,,,,,,Available,
+tr30,2024-04-08 09:46:13,Truck Weight,,,,,,,8.5
+tr7,2024-04-08 09:46:33,Truck Weight,,,,,,,10.4
+tr25,2024-04-08 09:48:07,Truck Weight,,,,,,,7.4
+tr21,2024-04-08 10:01:08,Truck Status,,,,,,Available,
+tr28,2024-04-08 10:06:47,Truck Weight,,,,,,,8.7
+tr8,2024-04-08 10:07:15,Truck Weight,,,,,,,11.8
+tr13,2024-04-08 10:07:24,Truck Status,,,,,,Occupied,
+tr13,2024-04-08 10:07:24,Pickup Plan ID,Pcp27,,,,,,
+tr13,2024-04-08 10:07:24,Scheduled Pickup Weight,,,,,3.5,,
+tr13,2024-04-08 10:07:24,Cargo ID,,Cr43,,,,,
+tr3,2024-04-08 10:13:48,Truck Weight,,,,,,,12.5
+tr31,2024-04-08 10:13:53,Truck Status,,,,,,Occupied,
+tr31,2024-04-08 10:13:53,Pickup Plan ID,Pcp88,,,,,,
+tr31,2024-04-08 10:13:53,Scheduled Pickup Weight,,,,,2.2,,
+tr31,2024-04-08 10:13:53,Cargo ID,,Cr65,,,,,
+tr29,2024-04-08 10:18:34,Truck Weight,,,,,,,11.3
+tr21,2024-04-08 10:35:11,Truck Status,,,,,,Occupied,
+tr21,2024-04-08 10:35:11,Pickup Plan ID,Pcp46,,,,,,
+tr21,2024-04-08 10:35:11,Scheduled Pickup Weight,,,,,3.2,,
+tr21,2024-04-08 10:35:11,Cargo ID,,Cr28,,,,,
+tr23,2024-04-08 10:35:49,Truck Weight,,,,,,,7.4
+tr46,2024-04-08 10:39:24,Truck Weight,,,,,,,8.1
+tr37,2024-04-08 10:47:06,Truck Weight,,,,,,,11.5
+tr41,2024-04-08 10:48:40,Truck Weight,,,,,,,12.4
+tr6,2024-04-08 10:51:53,Truck Status,,,,,,Available,
+tr50,2024-04-08 10:53:31,Truck Weight,,,,,,,11.0
+tr8,2024-04-08 10:56:37,Truck Status,,,,,,Available,
+tr39,2024-04-08 11:01:27,Truck Weight,,,,,,,13.4
+tr17,2024-04-08 11:05:25,Truck Status,,,,,,Available,
+tr22,2024-04-08 11:09:55,Truck Status,,,,,,Occupied,
+tr22,2024-04-08 11:09:55,Pickup Plan ID,Pcp15,,,,,,
+tr22,2024-04-08 11:09:55,Scheduled Pickup Weight,,,,,2.7,,
+tr22,2024-04-08 11:09:55,Cargo ID,,Cr20,,,,,
+tr48,2024-04-08 11:10:54,Truck Status,,,,,,Occupied,
+tr48,2024-04-08 11:10:54,Pickup Plan ID,Pcp61,,,,,,
+tr48,2024-04-08 11:10:54,Scheduled Pickup Weight,,,,,2.4,,
+tr48,2024-04-08 11:10:54,Cargo ID,,Cr42,,,,,
+tr44,2024-04-08 11:14:30,Truck Status,,,,,,Occupied,
+tr44,2024-04-08 11:14:30,Pickup Plan ID,Pcp23,,,,,,
+tr44,2024-04-08 11:14:30,Scheduled Pickup Weight,,,,,2.4,,
+tr44,2024-04-08 11:14:30,Cargo ID,,Cr39,,,,,
+tr20,2024-04-08 11:15:12,Truck Status,,,,,,Available,
+tr49,2024-04-08 11:20:22,Truck Weight,,,,,,,10.7
+tr2,2024-04-08 11:21:08,Truck Status,,,,,,Available,
+tr9,2024-04-08 11:26:50,Truck Weight,,,,,,,10.7
+tr11,2024-04-08 11:31:48,Truck Weight,,,,,,,12.4
+tr5,2024-04-08 11:33:19,Truck Status,,,,,,Available,
+tr29,2024-04-08 11:36:17,Truck Weight,,,,,,,14.4
+tr36,2024-04-08 11:37:43,Truck Weight,,,,,,,11.7
+tr27,2024-04-08 11:38:17,Truck Status,,,,,,Available,
+tr45,2024-04-08 11:43:39,Truck Status,,,,,,Available,
+tr35,2024-04-08 11:51:31,Truck Weight,,,,,,,12.5
+tr47,2024-04-08 11:53:56,Truck Status,,,,,,Occupied,
+tr47,2024-04-08 11:53:56,Pickup Plan ID,Pcp8,,,,,,
+tr47,2024-04-08 11:53:56,Scheduled Pickup Weight,,,,,3.2,,
+tr47,2024-04-08 11:53:56,Cargo ID,,Cr59,,,,,
+tr22,2024-04-08 11:56:40,Truck Weight,,,,,,,7.6
+tr6,2024-04-08 12:02:32,Truck Status,,,,,,Occupied,
+tr6,2024-04-08 12:02:32,Pickup Plan ID,Pcp31,,,,,,
+tr6,2024-04-08 12:02:32,Scheduled Pickup Weight,,,,,3.0,,
+tr6,2024-04-08 12:02:32,Cargo ID,,Cr5,,,,,
+tr16,2024-04-08 12:02:33,Truck Weight,,,,,,,6.9
+tr43,2024-04-08 12:05:46,Truck Status,,,,,,Available,
+tr40,2024-04-08 12:25:35,Truck Weight,,,,,,,12.2
+tr17,2024-04-08 13:25:45,Truck Status,,,,,,Occupied,
+tr17,2024-04-08 13:25:45,Pickup Plan ID,Pcp3,,,,,,
+tr17,2024-04-08 13:25:45,Scheduled Pickup Weight,,,,,3.2,,
+tr17,2024-04-08 13:25:45,Cargo ID,,Cr11,,,,,
+tr19,2024-04-08 13:38:06,Truck Status,,,,,,Available,
+tr28,2024-04-08 13:48:52,Truck Status,,,,,,Available,
+tr5,2024-04-08 13:53:22,Truck Status,,,,,,Occupied,
+tr5,2024-04-08 13:53:22,Pickup Plan ID,Pcp9,,,,,,
+tr5,2024-04-08 13:53:22,Scheduled Pickup Weight,,,,,2.2,,
+tr5,2024-04-08 13:53:22,Cargo ID,,Cr82,,,,,
+tr45,2024-04-08 13:54:48,Truck Status,,,,,,Occupied,
+tr45,2024-04-08 13:54:48,Pickup Plan ID,Pcp1,,,,,,
+tr45,2024-04-08 13:54:48,Scheduled Pickup Weight,,,,,3.5,,
+tr45,2024-04-08 13:54:48,Cargo ID,,Cr95,,,,,
+tr33,2024-04-08 13:56:21,Truck Status,,,,,,Available,
+tr43,2024-04-08 13:57:12,Truck Status,,,,,,Occupied,
+tr43,2024-04-08 13:57:12,Pickup Plan ID,Pcp14,,,,,,
+tr43,2024-04-08 13:57:12,Scheduled Pickup Weight,,,,,2.8,,
+tr43,2024-04-08 13:57:12,Cargo ID,,Cr26,,,,,
+tr13,2024-04-08 13:59:13,Truck Weight,,,,,,,8.6
+tr20,2024-04-08 14:02:06,Truck Status,,,,,,Occupied,
+tr20,2024-04-08 14:02:06,Pickup Plan ID,Pcp85,,,,,,
+tr20,2024-04-08 14:02:06,Scheduled Pickup Weight,,,,,3.1,,
+tr20,2024-04-08 14:02:06,Cargo ID,,Cr80,,,,,
+tr27,2024-04-08 14:04:02,Truck Status,,,,,,Occupied,
+tr27,2024-04-08 14:04:02,Pickup Plan ID,Pcp45,,,,,,
+tr27,2024-04-08 14:04:02,Scheduled Pickup Weight,,,,,3.5,,
+tr27,2024-04-08 14:04:02,Cargo ID,,Cr6,,,,,
+tr7,2024-04-08 14:07:55,Truck Status,,,,,,Available,
+tr3,2024-04-08 14:20:59,Truck Status,,,,,,Available,
+tr30,2024-04-08 14:21:22,Truck Weight,,,,,,,11.4
+tr8,2024-04-08 14:22:33,Truck Status,,,,,,Occupied,
+tr8,2024-04-08 14:22:33,Pickup Plan ID,Pcp7,,,,,,
+tr8,2024-04-08 14:22:33,Scheduled Pickup Weight,,,,,2.6,,
+tr8,2024-04-08 14:22:33,Cargo ID,,Cr90,,,,,
+tr2,2024-04-08 14:31:58,Truck Status,,,,,,Occupied,
+tr2,2024-04-08 14:31:58,Pickup Plan ID,Pcp87,,,,,,
+tr2,2024-04-08 14:31:58,Scheduled Pickup Weight,,,,,3.0,,
+tr2,2024-04-08 14:31:58,Cargo ID,,Cr84,,,,,
+tr46,2024-04-08 14:36:05,Truck Weight,,,,,,,11.3
+tr50,2024-04-08 14:36:10,Truck Status,,,,,,Available,
+tr6,2024-04-08 14:40:01,Truck Weight,,,,,,,10.9
+tr37,2024-04-08 14:40:43,Truck Status,,,,,,Available,
+tr31,2024-04-08 14:42:47,Truck Weight,,,,,,,9.6
+tr14,2024-04-08 14:48:35,Truck Weight,,,,,,,7.2
+tr19,2024-04-08 14:48:36,Truck Status,,,,,,Occupied,
+tr19,2024-04-08 14:48:36,Pickup Plan ID,Pcp97,,,,,,
+tr19,2024-04-08 14:48:36,Scheduled Pickup Weight,,,,,2.4,,
+tr19,2024-04-08 14:48:36,Cargo ID,,Cr99,,,,,
+tr7,2024-04-08 14:49:20,Truck Status,,,,,,Occupied,
+tr7,2024-04-08 14:49:20,Pickup Plan ID,Pcp68,,,,,,
+tr7,2024-04-08 14:49:20,Scheduled Pickup Weight,,,,,3.3,,
+tr7,2024-04-08 14:49:20,Cargo ID,,Cr92,,,,,
+tr42,2024-04-08 14:50:06,Truck Status,,,,,,Available,
+tr44,2024-04-08 14:51:16,Truck Weight,,,,,,,6.8
+tr18,2024-04-08 14:53:38,Truck Weight,,,,,,,10.9
+tr50,2024-04-08 14:59:18,Truck Status,,,,,,Occupied,
+tr50,2024-04-08 14:59:18,Pickup Plan ID,Pcp4,,,,,,
+tr50,2024-04-08 14:59:18,Scheduled Pickup Weight,,,,,3.0,,
+tr50,2024-04-08 14:59:18,Cargo ID,,Cr44,,,,,
+tr12,2024-04-08 15:02:31,Truck Weight,,,,,,,12.2
+tr28,2024-04-08 15:03:44,Truck Status,,,,,,Occupied,
+tr28,2024-04-08 15:03:44,Pickup Plan ID,Pcp87,,,,,,
+tr28,2024-04-08 15:03:44,Scheduled Pickup Weight,,,,,2.4,,
+tr28,2024-04-08 15:03:44,Cargo ID,,Cr84,,,,,
+tr20,2024-04-08 15:05:40,Truck Weight,,,,,,,12.0
+tr26,2024-04-08 15:13:03,Truck Weight,,,,,,,12.2
+tr33,2024-04-08 15:13:10,Truck Status,,,,,,Occupied,
+tr33,2024-04-08 15:13:10,Pickup Plan ID,Pcp45,,,,,,
+tr33,2024-04-08 15:13:10,Scheduled Pickup Weight,,,,,3.1,,
+tr33,2024-04-08 15:13:10,Cargo ID,,Cr6,,,,,
+tr23,2024-04-08 15:14:46,Truck Weight,,,,,,,11.0
+tr11,2024-04-08 15:18:33,Truck Weight,,,,,,,14.9
+tr4,2024-04-08 15:18:42,Truck Weight,,,,,,,9.7
+tr15,2024-04-08 15:22:15,Truck Weight,,,,,,,8.2
+tr16,2024-04-08 15:26:15,Truck Weight,,,,,,,9.5
+tr29,2024-04-08 15:48:51,Truck Status,,,,,,Available,
+tr40,2024-04-08 15:59:09,Truck Status,,,,,,Available,
+tr39,2024-04-08 16:02:11,Truck Status,,,,,,Available,
+tr25,2024-04-08 16:05:43,Truck Weight,,,,,,,9.6
+tr32,2024-04-08 16:08:36,Truck Weight,,,,,,,15.4
+tr3,2024-04-08 16:13:20,Truck Status,,,,,,Occupied,
+tr3,2024-04-08 16:13:20,Pickup Plan ID,Pcp51,,,,,,
+tr3,2024-04-08 16:13:20,Scheduled Pickup Weight,,,,,3.0,,
+tr3,2024-04-08 16:13:20,Cargo ID,,Cr12,,,,,
+tr37,2024-04-08 16:14:16,Truck Status,,,,,,Occupied,
+tr37,2024-04-08 16:14:16,Pickup Plan ID,Pcp58,,,,,,
+tr37,2024-04-08 16:14:16,Scheduled Pickup Weight,,,,,2.2,,
+tr37,2024-04-08 16:14:16,Cargo ID,,Cr57,,,,,
+tr38,2024-04-08 16:18:55,Truck Weight,,,,,,,10.0
+tr30,2024-04-08 16:21:17,Truck Status,,,,,,Available,
+tr13,2024-04-08 16:33:37,Truck Weight,,,,,,,12.1
+tr27,2024-04-08 16:34:26,Truck Weight,,,,,,,12.2
+tr11,2024-04-08 16:38:24,Truck Status,,,,,,Available,
+tr9,2024-04-08 16:41:39,Truck Status,,,,,,Available,
+tr26,2024-04-08 16:47:42,Truck Weight,,,,,,,15.6
+tr8,2024-04-08 16:50:21,Truck Weight,,,,,,,10.2
+tr17,2024-04-08 17:02:57,Truck Weight,,,,,,,12.2
+tr20,2024-04-08 17:06:17,Truck Weight,,,,,,,15.1
+tr34,2024-04-08 17:14:24,Truck Weight,,,,,,,13.2
+tr35,2024-04-08 17:16:29,Truck Weight,,,,,,,16.0
+tr23,2024-04-08 17:21:17,Truck Status,,,,,,Available,
+tr42,2024-04-08 17:26:11,Truck Status,,,,,,Occupied,
+tr42,2024-04-08 17:26:11,Pickup Plan ID,Pcp16,,,,,,
+tr42,2024-04-08 17:26:11,Scheduled Pickup Weight,,,,,3.0,,
+tr42,2024-04-08 17:26:11,Cargo ID,,Cr17,,,,,
+tr29,2024-04-08 17:27:19,Truck Status,,,,,,Occupied,
+tr29,2024-04-08 17:27:19,Pickup Plan ID,Pcp14,,,,,,
+tr29,2024-04-08 17:27:19,Scheduled Pickup Weight,,,,,3.3,,
+tr29,2024-04-08 17:27:19,Cargo ID,,Cr26,,,,,
+tr40,2024-04-08 17:42:42,Truck Status,,,,,,Occupied,
+tr40,2024-04-08 17:42:42,Pickup Plan ID,Pcp55,,,,,,
+tr40,2024-04-08 17:42:42,Scheduled Pickup Weight,,,,,2.7,,
+tr40,2024-04-08 17:42:42,Cargo ID,,Cr54,,,,,
+tr41,2024-04-08 17:52:06,Truck Weight,,,,,,,15.4
+tr24,2024-04-08 18:13:17,Truck Weight,,,,,,,14.5
+tr48,2024-04-08 18:47:37,Truck Weight,,,,,,,8.5
+tr11,2024-04-08 19:02:11,Truck Status,,,,,,Occupied,
+tr11,2024-04-08 19:02:11,Pickup Plan ID,Pcp1,,,,,,
+tr11,2024-04-08 19:02:11,Scheduled Pickup Weight,,,,,3.3,,
+tr11,2024-04-08 19:02:11,Cargo ID,,Cr95,,,,,
+tr46,2024-04-08 19:38:17,Truck Status,,,,,,Available,
+tr33,2024-04-09 07:18:32,Truck Weight,,,,,,,10.9
+tr39,2024-04-09 07:21:43,Truck Status,,,,,,Occupied,
+tr39,2024-04-09 07:21:43,Pickup Plan ID,Pcp63,,,,,,
+tr39,2024-04-09 07:21:43,Scheduled Pickup Weight,,,,,2.6,,
+tr39,2024-04-09 07:21:43,Cargo ID,,Cr3,,,,,
+tr30,2024-04-09 07:25:55,Truck Status,,,,,,Occupied,
+tr30,2024-04-09 07:25:55,Pickup Plan ID,Pcp33,,,,,,
+tr30,2024-04-09 07:25:55,Scheduled Pickup Weight,,,,,1.4,,
+tr30,2024-04-09 07:25:55,Cargo ID,,Cr25,,,,,
+tr23,2024-04-09 07:31:33,Truck Status,,,,,,Occupied,
+tr23,2024-04-09 07:31:33,Pickup Plan ID,Pcp40,,,,,,
+tr23,2024-04-09 07:31:33,Scheduled Pickup Weight,,,,,2.6,,
+tr23,2024-04-09 07:31:33,Cargo ID,,Cr78,,,,,
+tr28,2024-04-09 07:36:36,Truck Weight,,,,,,,7.4
+tr21,2024-04-09 07:39:19,Truck Weight,,,,,,,8.0
+tr25,2024-04-09 07:41:31,Truck Status,,,,,,Available,
+tr37,2024-04-09 07:59:29,Truck Weight,,,,,,,8.4
+tr45,2024-04-09 08:19:48,Truck Weight,,,,,,,10.6
+tr16,2024-04-09 08:20:29,Truck Status,,,,,,Available,
+tr18,2024-04-09 08:23:06,Truck Status,,,,,,Available,
+tr9,2024-04-09 08:33:34,Truck Status,,,,,,Occupied,
+tr9,2024-04-09 08:33:34,Pickup Plan ID,Pcp6,,,,,,
+tr9,2024-04-09 08:33:34,Scheduled Pickup Weight,,,,,3.0,,
+tr9,2024-04-09 08:33:34,Cargo ID,,Cr81,,,,,
+tr12,2024-04-09 08:46:05,Truck Status,,,,,,Available,
+tr39,2024-04-09 09:01:55,Truck Weight,,,,,,,11.0
+tr46,2024-04-09 09:02:19,Truck Status,,,,,,Occupied,
+tr46,2024-04-09 09:02:19,Pickup Plan ID,Pcp99,,,,,,
+tr46,2024-04-09 09:02:19,Scheduled Pickup Weight,,,,,3.6,,
+tr46,2024-04-09 09:02:19,Cargo ID,,Cr31,,,,,
+tr38,2024-04-09 09:03:37,Truck Status,,,,,,Available,
+tr20,2024-04-09 09:26:03,Truck Status,,,,,,Available,
+tr13,2024-04-09 09:28:59,Truck Status,,,,,,Available,
+tr19,2024-04-09 09:30:05,Truck Weight,,,,,,,11.2
+tr17,2024-04-09 09:32:50,Truck Weight,,,,,,,15.4
+tr18,2024-04-09 09:34:34,Truck Status,,,,,,Occupied,
+tr18,2024-04-09 09:34:34,Pickup Plan ID,Pcp74,,,,,,
+tr18,2024-04-09 09:34:34,Scheduled Pickup Weight,,,,,3.2,,
+tr18,2024-04-09 09:34:34,Cargo ID,,Cr97,,,,,
+tr16,2024-04-09 09:42:02,Truck Status,,,,,,Occupied,
+tr16,2024-04-09 09:42:02,Pickup Plan ID,Pcp3,,,,,,
+tr16,2024-04-09 09:42:02,Scheduled Pickup Weight,,,,,3.4,,
+tr16,2024-04-09 09:42:02,Cargo ID,,Cr11,,,,,
+tr36,2024-04-09 09:44:23,Truck Weight,,,,,,,14.9
+tr13,2024-04-09 09:47:36,Truck Status,,,,,,Occupied,
+tr13,2024-04-09 09:47:36,Pickup Plan ID,Pcp74,,,,,,
+tr13,2024-04-09 09:47:36,Scheduled Pickup Weight,,,,,3.8,,
+tr13,2024-04-09 09:47:36,Cargo ID,,Cr97,,,,,
+tr34,2024-04-09 09:52:52,Truck Status,,,,,,Available,
+tr25,2024-04-09 09:55:12,Truck Status,,,,,,Occupied,
+tr25,2024-04-09 09:55:12,Pickup Plan ID,Pcp91,,,,,,
+tr25,2024-04-09 09:55:12,Scheduled Pickup Weight,,,,,2.0,,
+tr25,2024-04-09 09:55:12,Cargo ID,,Cr100,,,,,
+tr32,2024-04-09 09:55:13,Truck Status,,,,,,Available,
+tr33,2024-04-09 10:08:06,Truck Weight,,,,,,,14.0
+tr38,2024-04-09 10:12:24,Truck Status,,,,,,Occupied,
+tr38,2024-04-09 10:12:24,Pickup Plan ID,Pcp97,,,,,,
+tr38,2024-04-09 10:12:24,Scheduled Pickup Weight,,,,,2.4,,
+tr38,2024-04-09 10:12:24,Cargo ID,,Cr99,,,,,
+tr6,2024-04-09 10:13:48,Truck Weight,,,,,,,13.9
+tr1,2024-04-09 10:15:03,Truck Weight,,,,,,,11.2
+tr2,2024-04-09 10:26:43,Truck Weight,,,,,,,10.3
+tr49,2024-04-09 10:31:22,Truck Weight,,,,,,,11.8
+tr15,2024-04-09 10:32:18,Truck Weight,,,,,,,11.6
+tr29,2024-04-09 10:34:50,Truck Weight,,,,,,,8.5
+tr20,2024-04-09 10:37:11,Truck Status,,,,,,Occupied,
+tr20,2024-04-09 10:37:11,Pickup Plan ID,Pcp4,,,,,,
+tr20,2024-04-09 10:37:11,Scheduled Pickup Weight,,,,,3.2,,
+tr20,2024-04-09 10:37:11,Cargo ID,,Cr44,,,,,
+tr12,2024-04-09 10:49:05,Truck Status,,,,,,Occupied,
+tr12,2024-04-09 10:49:05,Pickup Plan ID,Pcp76,,,,,,
+tr12,2024-04-09 10:49:05,Scheduled Pickup Weight,,,,,3.3,,
+tr12,2024-04-09 10:49:05,Cargo ID,,Cr69,,,,,
+tr42,2024-04-09 10:58:30,Truck Weight,,,,,,,6.6
+tr3,2024-04-09 10:58:36,Truck Weight,,,,,,,12.4
+tr34,2024-04-09 11:01:30,Truck Status,,,,,,Occupied,
+tr34,2024-04-09 11:01:30,Pickup Plan ID,Pcp25,,,,,,
+tr34,2024-04-09 11:01:30,Scheduled Pickup Weight,,,,,3.0,,
+tr34,2024-04-09 11:01:30,Cargo ID,,Cr15,,,,,
+tr48,2024-04-09 11:11:36,Truck Weight,,,,,,,10.9
+tr32,2024-04-09 11:22:02,Truck Status,,,,,,Occupied,
+tr32,2024-04-09 11:22:02,Pickup Plan ID,Pcp16,,,,,,
+tr32,2024-04-09 11:22:02,Scheduled Pickup Weight,,,,,2.8,,
+tr32,2024-04-09 11:22:02,Cargo ID,,Cr17,,,,,
+tr6,2024-04-09 11:26:20,Truck Status,,,,,,Available,
+tr5,2024-04-09 11:31:34,Truck Weight,,,,,,,10.4
+tr17,2024-04-09 11:34:30,Truck Status,,,,,,Available,
+tr35,2024-04-09 11:43:45,Truck Status,,,,,,Available,
+tr6,2024-04-09 11:45:51,Truck Status,,,,,,Occupied,
+tr6,2024-04-09 11:45:51,Pickup Plan ID,Pcp75,,,,,,
+tr6,2024-04-09 11:45:51,Scheduled Pickup Weight,,,,,3.1,,
+tr6,2024-04-09 11:45:51,Cargo ID,,Cr64,,,,,
+tr1,2024-04-09 11:46:28,Truck Weight,,,,,,,14.3
+tr14,2024-04-09 11:48:27,Truck Weight,,,,,,,11.0
+tr15,2024-04-09 11:48:38,Truck Status,,,,,,Available,
+tr16,2024-04-09 11:55:59,Truck Weight,,,,,,,10.0
+tr17,2024-04-09 11:57:06,Truck Status,,,,,,Occupied,
+tr17,2024-04-09 11:57:06,Pickup Plan ID,Pcp1,,,,,,
+tr17,2024-04-09 11:57:06,Scheduled Pickup Weight,,,,,3.5,,
+tr17,2024-04-09 11:57:06,Cargo ID,,Cr95,,,,,
+tr33,2024-04-09 11:57:12,Truck Status,,,,,,Available,
+tr22,2024-04-09 12:07:21,Truck Weight,,,,,,,10.3
+tr31,2024-04-09 12:09:58,Truck Weight,,,,,,,11.8
+tr23,2024-04-09 12:11:37,Truck Weight,,,,,,,9.4
+tr4,2024-04-09 12:21:41,Truck Weight,,,,,,,12.3
+tr26,2024-04-09 12:22:00,Truck Status,,,,,,Available,
+tr28,2024-04-09 12:31:36,Truck Weight,,,,,,,9.8
+tr50,2024-04-09 12:42:56,Truck Weight,,,,,,,8.1
+tr34,2024-04-09 13:10:17,Truck Weight,,,,,,,9.5
+tr8,2024-04-09 13:21:48,Truck Weight,,,,,,,12.8
+tr9,2024-04-09 13:38:00,Truck Weight,,,,,,,11.7
+tr38,2024-04-09 13:45:36,Truck Weight,,,,,,,7.5
+tr26,2024-04-09 13:49:21,Truck Status,,,,,,Occupied,
+tr26,2024-04-09 13:49:21,Pickup Plan ID,Pcp68,,,,,,
+tr26,2024-04-09 13:49:21,Scheduled Pickup Weight,,,,,3.5,,
+tr26,2024-04-09 13:49:21,Cargo ID,,Cr92,,,,,
+tr37,2024-04-09 13:50:14,Truck Weight,,,,,,,10.6
+tr35,2024-04-09 13:55:21,Truck Status,,,,,,Occupied,
+tr35,2024-04-09 13:55:21,Pickup Plan ID,Pcp68,,,,,,
+tr35,2024-04-09 13:55:21,Scheduled Pickup Weight,,,,,2.9,,
+tr35,2024-04-09 13:55:21,Cargo ID,,Cr92,,,,,
+tr47,2024-04-09 14:02:22,Truck Weight,,,,,,,12.3
+tr45,2024-04-09 14:08:51,Truck Weight,,,,,,,14.1
+tr20,2024-04-09 14:13:19,Truck Weight,,,,,,,11.0
+tr33,2024-04-09 14:15:47,Truck Status,,,,,,Occupied,
+tr33,2024-04-09 14:15:47,Pickup Plan ID,Pcp8,,,,,,
+tr33,2024-04-09 14:15:47,Scheduled Pickup Weight,,,,,3.2,,
+tr33,2024-04-09 14:15:47,Cargo ID,,Cr59,,,,,
+tr49,2024-04-09 14:20:29,Truck Status,,,,,,Available,
+tr44,2024-04-09 14:27:26,Truck Weight,,,,,,,9.2
+tr27,2024-04-09 14:33:04,Truck Weight,,,,,,,15.7
+tr15,2024-04-09 14:36:06,Truck Status,,,,,,Occupied,
+tr15,2024-04-09 14:36:06,Pickup Plan ID,Pcp4,,,,,,
+tr15,2024-04-09 14:36:06,Scheduled Pickup Weight,,,,,3.4,,
+tr15,2024-04-09 14:36:06,Cargo ID,,Cr44,,,,,
+tr30,2024-04-09 14:36:58,Truck Weight,,,,,,,10.6
+tr48,2024-04-09 14:44:53,Truck Status,,,,,,Available,
+tr2,2024-04-09 14:53:53,Truck Weight,,,,,,,13.3
+tr7,2024-04-09 14:54:44,Truck Weight,,,,,,,7.6
+tr36,2024-04-09 15:05:22,Truck Status,,,,,,Available,
+tr43,2024-04-09 15:11:00,Truck Weight,,,,,,,12.2
+tr21,2024-04-09 15:24:14,Truck Weight,,,,,,,11.2
+tr12,2024-04-09 15:39:56,Truck Weight,,,,,,,10.2
+tr8,2024-04-09 15:40:09,Truck Status,,,,,,Available,
+tr1,2024-04-09 15:43:38,Truck Status,,,,,,Available,
+tr31,2024-04-09 15:50:40,Truck Status,,,,,,Available,
+tr20,2024-04-09 15:55:32,Truck Weight,,,,,,,14.2
+tr11,2024-04-09 15:56:25,Truck Weight,,,,,,,11.0
+tr8,2024-04-09 15:57:42,Truck Status,,,,,,Occupied,
+tr8,2024-04-09 15:57:42,Pickup Plan ID,Pcp35,,,,,,
+tr8,2024-04-09 15:57:42,Scheduled Pickup Weight,,,,,3.4,,
+tr8,2024-04-09 15:57:42,Cargo ID,,Cr49,,,,,
+tr49,2024-04-09 16:01:31,Truck Status,,,,,,Occupied,
+tr49,2024-04-09 16:01:31,Pickup Plan ID,Pcp45,,,,,,
+tr49,2024-04-09 16:01:31,Scheduled Pickup Weight,,,,,3.1,,
+tr49,2024-04-09 16:01:31,Cargo ID,,Cr6,,,,,
+tr38,2024-04-09 16:07:34,Truck Weight,,,,,,,9.9
+tr39,2024-04-09 16:15:55,Truck Weight,,,,,,,13.6
+tr48,2024-04-09 16:19:26,Truck Status,,,,,,Occupied,
+tr48,2024-04-09 16:19:26,Pickup Plan ID,Pcp74,,,,,,
+tr48,2024-04-09 16:19:26,Scheduled Pickup Weight,,,,,3.6,,
+tr48,2024-04-09 16:19:26,Cargo ID,,Cr97,,,,,
+tr36,2024-04-09 16:23:04,Truck Status,,,,,,Occupied,
+tr36,2024-04-09 16:23:04,Pickup Plan ID,Pcp48,,,,,,
+tr36,2024-04-09 16:23:04,Scheduled Pickup Weight,,,,,3.3,,
+tr36,2024-04-09 16:23:04,Cargo ID,,Cr48,,,,,
+tr13,2024-04-09 16:27:54,Truck Weight,,,,,,,7.4
+tr18,2024-04-09 16:28:00,Truck Weight,,,,,,,11.7
+tr22,2024-04-09 16:32:54,Truck Status,,,,,,Available,
+tr29,2024-04-09 16:37:20,Truck Weight,,,,,,,11.8
+tr28,2024-04-09 16:41:29,Truck Status,,,,,,Available,
+tr47,2024-04-09 16:42:02,Truck Weight,,,,,,,15.5
+tr14,2024-04-09 16:43:23,Truck Status,,,,,,Available,
+tr40,2024-04-09 16:45:54,Truck Weight,,,,,,,6.9
+tr25,2024-04-09 17:00:56,Truck Weight,,,,,,,6.7
+tr50,2024-04-09 17:07:31,Truck Weight,,,,,,,11.1
+tr46,2024-04-09 17:16:18,Truck Weight,,,,,,,7.1
+tr34,2024-04-09 17:18:53,Truck Weight,,,,,,,12.5
+tr5,2024-04-09 17:18:57,Truck Weight,,,,,,,12.6
+tr45,2024-04-09 17:21:03,Truck Status,,,,,,Available,
+tr23,2024-04-09 17:21:56,Truck Weight,,,,,,,12.0
+tr26,2024-04-09 17:23:24,Truck Weight,,,,,,,10.0
+tr17,2024-04-09 17:37:55,Truck Weight,,,,,,,11.4
+tr37,2024-04-09 17:42:04,Truck Status,,,,,,Available,
+tr19,2024-04-09 17:44:47,Truck Weight,,,,,,,13.6
+tr22,2024-04-09 18:05:33,Truck Status,,,,,,Occupied,
+tr22,2024-04-09 18:05:33,Pickup Plan ID,Pcp76,,,,,,
+tr22,2024-04-09 18:05:33,Scheduled Pickup Weight,,,,,2.9,,
+tr22,2024-04-09 18:05:33,Cargo ID,,Cr69,,,,,
+tr4,2024-04-09 18:15:17,Truck Status,,,,,,Available,
+tr35,2024-04-09 18:16:17,Truck Weight,,,,,,,9.5
+tr21,2024-04-09 18:17:25,Truck Status,,,,,,Available,
+tr1,2024-04-09 18:21:50,Truck Status,,,,,,Occupied,
+tr1,2024-04-09 18:21:50,Pickup Plan ID,Pcp99,,,,,,
+tr1,2024-04-09 18:21:50,Scheduled Pickup Weight,,,,,3.4,,
+tr1,2024-04-09 18:21:50,Cargo ID,,Cr31,,,,,
+tr27,2024-04-09 18:21:52,Truck Status,,,,,,Available,
+tr14,2024-04-09 18:26:51,Truck Status,,,,,,Occupied,
+tr14,2024-04-09 18:26:51,Pickup Plan ID,Pcp74,,,,,,
+tr14,2024-04-09 18:26:51,Scheduled Pickup Weight,,,,,3.2,,
+tr14,2024-04-09 18:26:51,Cargo ID,,Cr97,,,,,
+tr31,2024-04-09 18:58:21,Truck Status,,,,,,Occupied,
+tr31,2024-04-09 18:58:21,Pickup Plan ID,Pcp68,,,,,,
+tr31,2024-04-09 18:58:21,Scheduled Pickup Weight,,,,,3.4,,
+tr31,2024-04-09 18:58:21,Cargo ID,,Cr92,,,,,
+tr45,2024-04-09 19:06:21,Truck Status,,,,,,Occupied,
+tr45,2024-04-09 19:06:21,Pickup Plan ID,Pcp59,,,,,,
+tr45,2024-04-09 19:06:21,Scheduled Pickup Weight,,,,,2.6,,
+tr45,2024-04-09 19:06:21,Cargo ID,,Cr45,,,,,
+tr44,2024-04-09 19:16:03,Truck Status,,,,,,Available,
+tr16,2024-04-10 07:26:51,Truck Weight,,,,,,,13.4
+tr28,2024-04-10 07:46:00,Truck Status,,,,,,Occupied,
+tr28,2024-04-10 07:46:00,Pickup Plan ID,Pcp4,,,,,,
+tr28,2024-04-10 07:46:00,Scheduled Pickup Weight,,,,,3.1,,
+tr28,2024-04-10 07:46:00,Cargo ID,,Cr44,,,,,
+tr27,2024-04-10 07:46:27,Truck Status,,,,,,Occupied,
+tr27,2024-04-10 07:46:27,Pickup Plan ID,Pcp32,,,,,,
+tr27,2024-04-10 07:46:27,Scheduled Pickup Weight,,,,,3.1,,
+tr27,2024-04-10 07:46:27,Cargo ID,,Cr38,,,,,
+tr42,2024-04-10 07:51:07,Truck Weight,,,,,,,9.6
+tr13,2024-04-10 07:53:05,Truck Weight,,,,,,,11.2
+tr38,2024-04-10 07:53:36,Truck Status,,,,,,Available,
+tr7,2024-04-10 07:54:33,Truck Weight,,,,,,,10.9
+tr43,2024-04-10 07:55:36,Truck Weight,,,,,,,15.0
+tr4,2024-04-10 08:09:45,Truck Status,,,,,,Occupied,
+tr4,2024-04-10 08:09:45,Pickup Plan ID,Pcp35,,,,,,
+tr4,2024-04-10 08:09:45,Scheduled Pickup Weight,,,,,2.8,,
+tr4,2024-04-10 08:09:45,Cargo ID,,Cr49,,,,,
+tr41,2024-04-10 08:13:58,Truck Status,,,,,,Available,
+tr37,2024-04-10 08:23:00,Truck Status,,,,,,Occupied,
+tr37,2024-04-10 08:23:00,Pickup Plan ID,Pcp55,,,,,,
+tr37,2024-04-10 08:23:00,Scheduled Pickup Weight,,,,,3.3,,
+tr37,2024-04-10 08:23:00,Cargo ID,,Cr54,,,,,
+tr9,2024-04-10 08:25:29,Truck Weight,,,,,,,14.7
+tr30,2024-04-10 08:43:57,Truck Weight,,,,,,,12.0
+tr29,2024-04-10 08:49:34,Truck Status,,,,,,Available,
+tr24,2024-04-10 08:51:42,Truck Status,,,,,,Available,
+tr44,2024-04-10 09:04:01,Truck Status,,,,,,Occupied,
+tr44,2024-04-10 09:04:01,Pickup Plan ID,Pcp62,,,,,,
+tr44,2024-04-10 09:04:01,Scheduled Pickup Weight,,,,,3.0,,
+tr44,2024-04-10 09:04:01,Cargo ID,,Cr52,,,,,
+tr39,2024-04-10 09:08:10,Truck Status,,,,,,Available,
+tr21,2024-04-10 09:10:32,Truck Status,,,,,,Occupied,
+tr21,2024-04-10 09:10:32,Pickup Plan ID,Pcp72,,,,,,
+tr21,2024-04-10 09:10:32,Scheduled Pickup Weight,,,,,3.0,,
+tr21,2024-04-10 09:10:32,Cargo ID,,Cr2,,,,,
+tr26,2024-04-10 09:11:23,Truck Weight,,,,,,,13.5
+tr2,2024-04-10 09:14:06,Truck Status,,,,,,Available,
+tr5,2024-04-10 09:25:54,Truck Status,,,,,,Available,
+tr20,2024-04-10 09:27:59,Truck Status,,,,,,Available,
+tr3,2024-04-10 09:28:15,Truck Weight,,,,,,,15.4
+tr2,2024-04-10 09:31:02,Truck Status,,,,,,Occupied,
+tr2,2024-04-10 09:31:02,Pickup Plan ID,Pcp57,,,,,,
+tr2,2024-04-10 09:31:02,Scheduled Pickup Weight,,,,,2.6,,
+tr2,2024-04-10 09:31:02,Cargo ID,,Cr94,,,,,
+tr15,2024-04-10 09:32:58,Truck Weight,,,,,,,8.3
+tr33,2024-04-10 09:33:36,Truck Weight,,,,,,,9.9
+tr27,2024-04-10 09:34:47,Truck Weight,,,,,,,6.6
+tr41,2024-04-10 09:41:08,Truck Status,,,,,,Occupied,
+tr41,2024-04-10 09:41:08,Pickup Plan ID,Pcp75,,,,,,
+tr41,2024-04-10 09:41:08,Scheduled Pickup Weight,,,,,3.2,,
+tr41,2024-04-10 09:41:08,Cargo ID,,Cr64,,,,,
+tr49,2024-04-10 09:42:42,Truck Weight,,,,,,,9.6
+tr32,2024-04-10 09:43:16,Truck Weight,,,,,,,9.9
+tr39,2024-04-10 09:45:28,Truck Status,,,,,,Occupied,
+tr39,2024-04-10 09:45:28,Pickup Plan ID,Pcp72,,,,,,
+tr39,2024-04-10 09:45:28,Scheduled Pickup Weight,,,,,3.0,,
+tr39,2024-04-10 09:45:28,Cargo ID,,Cr2,,,,,
+tr25,2024-04-10 09:56:47,Truck Weight,,,,,,,8.7
+tr1,2024-04-10 09:59:23,Truck Weight,,,,,,,6.7
+tr47,2024-04-10 09:59:29,Truck Status,,,,,,Available,
+tr45,2024-04-10 09:59:44,Truck Weight,,,,,,,12.5
+tr40,2024-04-10 10:00:00,Truck Weight,,,,,,,9.6
+tr29,2024-04-10 10:12:12,Truck Status,,,,,,Occupied,
+tr29,2024-04-10 10:12:12,Pickup Plan ID,Pcp35,,,,,,
+tr29,2024-04-10 10:12:12,Scheduled Pickup Weight,,,,,3.3,,
+tr29,2024-04-10 10:12:12,Cargo ID,,Cr49,,,,,
+tr24,2024-04-10 10:14:14,Truck Status,,,,,,Occupied,
+tr24,2024-04-10 10:14:14,Pickup Plan ID,Pcp72,,,,,,
+tr24,2024-04-10 10:14:14,Scheduled Pickup Weight,,,,,2.7,,
+tr24,2024-04-10 10:14:14,Cargo ID,,Cr2,,,,,
+tr6,2024-04-10 10:22:53,Truck Weight,,,,,,,9.4
+tr50,2024-04-10 10:24:06,Truck Status,,,,,,Available,
+tr11,2024-04-10 10:27:16,Truck Weight,,,,,,,14.3
+tr38,2024-04-10 10:28:34,Truck Status,,,,,,Occupied,
+tr38,2024-04-10 10:28:34,Pickup Plan ID,Pcp9,,,,,,
+tr38,2024-04-10 10:28:34,Scheduled Pickup Weight,,,,,2.4,,
+tr38,2024-04-10 10:28:34,Cargo ID,,Cr82,,,,,
+tr20,2024-04-10 10:44:38,Truck Status,,,,,,Occupied,
+tr20,2024-04-10 10:44:38,Pickup Plan ID,Pcp85,,,,,,
+tr20,2024-04-10 10:44:38,Scheduled Pickup Weight,,,,,3.0,,
+tr20,2024-04-10 10:44:38,Cargo ID,,Cr80,,,,,
+tr24,2024-04-10 10:45:49,Truck Weight,,,,,,,9.1
+tr16,2024-04-10 10:52:28,Truck Status,,,,,,Available,
+tr5,2024-04-10 10:55:44,Truck Status,,,,,,Occupied,
+tr5,2024-04-10 10:55:44,Pickup Plan ID,Pcp40,,,,,,
+tr5,2024-04-10 10:55:44,Scheduled Pickup Weight,,,,,2.4,,
+tr5,2024-04-10 10:55:44,Cargo ID,,Cr78,,,,,
+tr23,2024-04-10 11:03:44,Truck Status,,,,,,Available,
+tr22,2024-04-10 11:04:05,Truck Weight,,,,,,,9.1
+tr37,2024-04-10 11:13:27,Truck Weight,,,,,,,9.8
+tr23,2024-04-10 11:21:06,Truck Status,,,,,,Occupied,
+tr23,2024-04-10 11:21:06,Pickup Plan ID,Pcp85,,,,,,
+tr23,2024-04-10 11:21:06,Scheduled Pickup Weight,,,,,2.7,,
+tr23,2024-04-10 11:21:06,Cargo ID,,Cr80,,,,,
+tr33,2024-04-10 11:36:47,Truck Weight,,,,,,,13.1
+tr36,2024-04-10 11:45:21,Truck Weight,,,,,,,7.4
+tr9,2024-04-10 11:51:54,Truck Status,,,,,,Available,
+tr50,2024-04-10 11:55:09,Truck Status,,,,,,Occupied,
+tr50,2024-04-10 11:55:09,Pickup Plan ID,Pcp55,,,,,,
+tr50,2024-04-10 11:55:09,Scheduled Pickup Weight,,,,,3.0,,
+tr50,2024-04-10 11:55:09,Cargo ID,,Cr54,,,,,
+tr13,2024-04-10 11:55:41,Truck Status,,,,,,Available,
+tr3,2024-04-10 11:57:02,Truck Status,,,,,,Available,
+tr48,2024-04-10 12:00:55,Truck Weight,,,,,,,8.8
+tr40,2024-04-10 12:06:28,Truck Status,,,,,,Available,
+tr8,2024-04-10 12:16:27,Truck Weight,,,,,,,10.5
+tr26,2024-04-10 12:23:52,Truck Status,,,,,,Available,
+tr47,2024-04-10 12:27:00,Truck Status,,,,,,Occupied,
+tr47,2024-04-10 12:27:00,Pickup Plan ID,Pcp85,,,,,,
+tr47,2024-04-10 12:27:00,Scheduled Pickup Weight,,,,,3.2,,
+tr47,2024-04-10 12:27:00,Cargo ID,,Cr80,,,,,
+tr28,2024-04-10 12:28:18,Truck Weight,,,,,,,9.5
+tr49,2024-04-10 12:32:31,Truck Weight,,,,,,,12.7
+tr16,2024-04-10 12:39:23,Truck Status,,,,,,Occupied,
+tr16,2024-04-10 12:39:23,Pickup Plan ID,Pcp86,,,,,,
+tr16,2024-04-10 12:39:23,Scheduled Pickup Weight,,,,,2.2,,
+tr16,2024-04-10 12:39:23,Cargo ID,,Cr67,,,,,
+tr41,2024-04-10 12:39:25,Truck Weight,,,,,,,12.0
+tr42,2024-04-10 12:42:46,Truck Status,,,,,,Available,
+tr22,2024-04-10 13:15:21,Truck Weight,,,,,,,12.0
+tr23,2024-04-10 13:25:06,Truck Weight,,,,,,,8.2
+tr43,2024-04-10 13:35:37,Truck Status,,,,,,Available,
+tr7,2024-04-10 13:37:07,Truck Status,,,,,,Available,
+tr9,2024-04-10 14:03:22,Truck Status,,,,,,Occupied,
+tr9,2024-04-10 14:03:22,Pickup Plan ID,Pcp75,,,,,,
+tr9,2024-04-10 14:03:22,Scheduled Pickup Weight,,,,,3.5,,
+tr9,2024-04-10 14:03:22,Cargo ID,,Cr64,,,,,
+tr39,2024-04-10 14:04:07,Truck Weight,,,,,,,7.7
+tr2,2024-04-10 14:07:50,Truck Weight,,,,,,,6.7
+tr26,2024-04-10 14:16:01,Truck Status,,,,,,Occupied,
+tr26,2024-04-10 14:16:01,Pickup Plan ID,Pcp31,,,,,,
+tr26,2024-04-10 14:16:01,Scheduled Pickup Weight,,,,,2.7,,
+tr26,2024-04-10 14:16:01,Cargo ID,,Cr5,,,,,
+tr42,2024-04-10 14:17:26,Truck Status,,,,,,Occupied,
+tr42,2024-04-10 14:17:26,Pickup Plan ID,Pcp32,,,,,,
+tr42,2024-04-10 14:17:26,Scheduled Pickup Weight,,,,,3.1,,
+tr42,2024-04-10 14:17:26,Cargo ID,,Cr38,,,,,
+tr46,2024-04-10 14:29:01,Truck Weight,,,,,,,10.7
+tr12,2024-04-10 14:29:33,Truck Weight,,,,,,,13.5
+tr18,2024-04-10 14:29:48,Truck Weight,,,,,,,14.9
+tr30,2024-04-10 14:36:38,Truck Status,,,,,,Available,
+tr3,2024-04-10 14:38:00,Truck Status,,,,,,Occupied,
+tr3,2024-04-10 14:38:00,Pickup Plan ID,Pcp17,,,,,,
+tr3,2024-04-10 14:38:00,Scheduled Pickup Weight,,,,,3.6,,
+tr3,2024-04-10 14:38:00,Cargo ID,,Cr30,,,,,
+tr43,2024-04-10 14:39:20,Truck Status,,,,,,Occupied,
+tr43,2024-04-10 14:39:20,Pickup Plan ID,Pcp75,,,,,,
+tr43,2024-04-10 14:39:20,Scheduled Pickup Weight,,,,,3.3,,
+tr43,2024-04-10 14:39:20,Cargo ID,,Cr64,,,,,
+tr50,2024-04-10 14:39:34,Truck Weight,,,,,,,8.8
+tr40,2024-04-10 14:39:40,Truck Status,,,,,,Occupied,
+tr40,2024-04-10 14:39:40,Pickup Plan ID,Pcp72,,,,,,
+tr40,2024-04-10 14:39:40,Scheduled Pickup Weight,,,,,3.0,,
+tr40,2024-04-10 14:39:40,Cargo ID,,Cr2,,,,,
+tr7,2024-04-10 14:44:28,Truck Status,,,,,,Occupied,
+tr7,2024-04-10 14:44:28,Pickup Plan ID,Pcp31,,,,,,
+tr7,2024-04-10 14:44:28,Scheduled Pickup Weight,,,,,2.8,,
+tr7,2024-04-10 14:44:28,Cargo ID,,Cr5,,,,,
+tr6,2024-04-10 14:46:20,Truck Weight,,,,,,,12.5
+tr35,2024-04-10 14:48:57,Truck Weight,,,,,,,12.4
+tr33,2024-04-10 14:49:44,Truck Status,,,,,,Available,
+tr13,2024-04-10 15:04:42,Truck Status,,,,,,Occupied,
+tr13,2024-04-10 15:04:42,Pickup Plan ID,Pcp17,,,,,,
+tr13,2024-04-10 15:04:42,Scheduled Pickup Weight,,,,,3.2,,
+tr13,2024-04-10 15:04:42,Cargo ID,,Cr30,,,,,
+tr29,2024-04-10 15:05:34,Truck Weight,,,,,,,9.0
+tr22,2024-04-10 15:06:25,Truck Status,,,,,,Available,
+tr25,2024-04-10 15:08:47,Truck Status,,,,,,Available,
+tr11,2024-04-10 15:09:27,Truck Status,,,,,,Available,
+tr44,2024-04-10 15:13:15,Truck Weight,,,,,,,8.4
+tr8,2024-04-10 15:26:36,Truck Weight,,,,,,,13.9
+tr26,2024-04-10 15:36:37,Truck Weight,,,,,,,9.5
+tr39,2024-04-10 15:38:24,Truck Weight,,,,,,,10.7
+tr45,2024-04-10 15:45:32,Truck Weight,,,,,,,15.1
+tr17,2024-04-10 15:51:22,Truck Weight,,,,,,,14.9
+tr14,2024-04-10 16:08:27,Truck Weight,,,,,,,9.1
+tr47,2024-04-10 16:15:37,Truck Weight,,,,,,,6.7
+tr12,2024-04-10 16:17:56,Truck Status,,,,,,Available,
+tr42,2024-04-10 16:20:25,Truck Weight,,,,,,,11.8
+tr41,2024-04-10 16:20:38,Truck Weight,,,,,,,15.2
+tr38,2024-04-10 16:21:58,Truck Weight,,,,,,,6.6
+tr1,2024-04-10 16:23:43,Truck Weight,,,,,,,10.1
+tr32,2024-04-10 16:49:30,Truck Weight,,,,,,,12.7
+tr15,2024-04-10 16:53:07,Truck Weight,,,,,,,11.7
+tr2,2024-04-10 17:01:30,Truck Weight,,,,,,,9.3
+tr37,2024-04-10 17:06:27,Truck Weight,,,,,,,13.1
+tr16,2024-04-10 17:07:29,Truck Weight,,,,,,,8.9
+tr9,2024-04-10 17:12:43,Truck Weight,,,,,,,10.0
+tr27,2024-04-10 17:20:52,Truck Weight,,,,,,,9.7
+tr49,2024-04-10 17:29:55,Truck Status,,,,,,Available,
+tr18,2024-04-10 17:57:20,Truck Status,,,,,,Available,
+tr4,2024-04-10 18:00:16,Truck Weight,,,,,,,6.8
+tr31,2024-04-10 18:15:17,Truck Weight,,,,,,,10.8
+tr44,2024-04-10 18:23:52,Truck Weight,,,,,,,11.4
+tr46,2024-04-10 18:30:36,Truck Status,,,,,,Available,
+tr21,2024-04-10 19:02:31,Truck Weight,,,,,,,11.0
+tr39,2024-04-11 07:25:25,Truck Status,,,,,,Available,
+tr32,2024-04-11 07:50:18,Truck Status,,,,,,Available,
+tr8,2024-04-11 08:21:51,Truck Status,,,,,,Available,
+tr29,2024-04-11 08:26:23,Truck Weight,,,,,,,12.3
+tr1,2024-04-11 08:32:10,Truck Status,,,,,,Available,
+tr41,2024-04-11 08:33:31,Truck Status,,,,,,Available,
+tr38,2024-04-11 08:34:16,Truck Weight,,,,,,,9.0
+tr6,2024-04-11 08:34:53,Truck Status,,,,,,Available,
+tr23,2024-04-11 08:41:09,Truck Weight,,,,,,,10.9
+tr50,2024-04-11 08:42:02,Truck Weight,,,,,,,11.8
+tr42,2024-04-11 08:44:27,Truck Weight,,,,,,,14.9
+tr17,2024-04-11 08:46:48,Truck Status,,,,,,Available,
+tr24,2024-04-11 08:59:13,Truck Weight,,,,,,,11.8
+tr35,2024-04-11 09:01:02,Truck Status,,,,,,Available,
+tr10,2024-04-11 09:13:06,Truck Status,,,,,,Available,
+tr45,2024-04-11 09:32:41,Truck Status,,,,,,Available,
+tr13,2024-04-11 09:40:56,Truck Weight,,,,,,,9.5
+tr19,2024-04-11 09:42:53,Truck Status,,,,,,Available,
+tr34,2024-04-11 09:48:53,Truck Status,,,,,,Available,
+tr7,2024-04-11 09:52:27,Truck Weight,,,,,,,10.5
+tr28,2024-04-11 09:58:04,Truck Weight,,,,,,,12.6
+tr5,2024-04-11 10:05:36,Truck Weight,,,,,,,8.5
+tr36,2024-04-11 10:09:10,Truck Weight,,,,,,,10.7
+tr14,2024-04-11 10:09:20,Truck Weight,,,,,,,12.3
+tr16,2024-04-11 10:12:14,Truck Weight,,,,,,,11.1
+tr21,2024-04-11 10:21:53,Truck Weight,,,,,,,14.0
+tr2,2024-04-11 10:27:53,Truck Status,,,,,,Available,
+tr26,2024-04-11 10:31:37,Truck Weight,,,,,,,12.2
+tr9,2024-04-11 10:33:01,Truck Weight,,,,,,,13.5
+tr3,2024-04-11 10:38:45,Truck Weight,,,,,,,8.8
+tr20,2024-04-11 10:46:46,Truck Weight,,,,,,,8.0
+tr29,2024-04-11 10:49:08,Truck Status,,,,,,Available,
+tr43,2024-04-11 10:51:29,Truck Weight,,,,,,,12.0
+tr40,2024-04-11 10:51:31,Truck Weight,,,,,,,11.4
+tr48,2024-04-11 11:04:30,Truck Weight,,,,,,,12.4
+tr47,2024-04-11 11:05:45,Truck Weight,,,,,,,9.9
+tr23,2024-04-11 11:27:40,Truck Status,,,,,,Available,
+tr26,2024-04-11 11:51:35,Truck Status,,,,,,Available,
+tr36,2024-04-11 11:52:52,Truck Status,,,,,,Available,
+tr14,2024-04-11 11:56:44,Truck Status,,,,,,Available,
+tr42,2024-04-11 11:57:44,Truck Status,,,,,,Available,
+tr15,2024-04-11 12:07:16,Truck Status,,,,,,Available,
+tr4,2024-04-11 12:12:29,Truck Weight,,,,,,,9.6
+tr38,2024-04-11 12:12:41,Truck Status,,,,,,Available,
+tr3,2024-04-11 12:17:24,Truck Weight,,,,,,,12.4
+tr13,2024-04-11 12:40:25,Truck Weight,,,,,,,12.7
+tr16,2024-04-11 12:52:58,Truck Status,,,,,,Available,
+tr5,2024-04-11 13:22:53,Truck Weight,,,,,,,10.9
+tr21,2024-04-11 13:41:22,Truck Status,,,,,,Available,
+tr48,2024-04-11 13:48:48,Truck Status,,,,,,Available,
+tr28,2024-04-11 14:25:52,Truck Status,,,,,,Available,
+tr24,2024-04-11 14:36:15,Truck Status,,,,,,Available,
+tr31,2024-04-11 14:38:12,Truck Weight,,,,,,,14.2
+tr50,2024-04-11 14:43:26,Truck Status,,,,,,Available,
+tr40,2024-04-11 14:52:08,Truck Weight,,,,,,,14.4
+tr9,2024-04-11 14:53:34,Truck Status,,,,,,Available,
+tr47,2024-04-11 15:06:39,Truck Status,,,,,,Available,
+tr3,2024-04-11 15:47:36,Truck Status,,,,,,Available,
+tr4,2024-04-11 15:58:39,Truck Status,,,,,,Available,
+tr5,2024-04-11 16:13:21,Truck Status,,,,,,Available,
+tr7,2024-04-11 16:13:27,Truck Weight,,,,,,,13.3
+tr13,2024-04-11 16:21:05,Truck Status,,,,,,Available,
+tr31,2024-04-11 18:15:07,Truck Status,,,,,,Available,
+tr40,2024-04-11 18:57:58,Truck Status,,,,,,Available,
+tr37,2024-04-12 08:42:55,Truck Status,,,,,,Available,
+tr7,2024-04-12 09:42:35,Truck Status,,,,,,Available,
+tr27,2024-04-12 10:03:35,Truck Status,,,,,,Available,
+tr20,2024-04-12 10:04:15,Truck Weight,,,,,,,11.0
+tr44,2024-04-12 10:12:23,Truck Status,,,,,,Available,
+tr43,2024-04-12 11:04:38,Truck Weight,,,,,,,15.3
+tr20,2024-04-12 12:06:20,Truck Status,,,,,,Available,
+tr43,2024-04-12 14:49:11,Truck Status,,,,,,Available,
