@@ -12,8 +12,8 @@ This is the supplementary repository for the paper Dirigo: A Method to Extract E
   - CSVs_to_OCEL_log_schema.ipynb: A Jupyter notebook for data preprocessing to generate the OCEL log following the _Dirigo_ schema.
 
 ### Simulation Instructions for the Cargo Pickup Process
-- First, Run the simulation on object_initialisation.cpn in the object_initialise folder.
-- Next, Run the simulation on truck_bp.cpn in the CargoPickupBP folder.
+- First, Run the simulation on object_initialisation.cpn in the object_initialise folder to initialise objects involved in the process.
+- Next, Run the simulation on truck_bp.cpn in the CargoPickupBP folder, which captures the actual cargo pickup processes.
 
 
 ### 2. OCEL Log:
