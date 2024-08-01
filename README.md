@@ -7,9 +7,14 @@ This is the supplementary repository for the paper Dirigo: A Method to Extract E
 ### 1. CPN Models:
 - object_initialise: Contains a CPN model for initialising objects involved in the process. The resulting object tables for each type include both static and dynamic attributes, with dynamic attributes initially set to NULL or 0.0.
 - CargoPickupBP: Features a CPN model for capturing the cargo pickup process and a collection of CSV files. These files include:
-  -  an object table for each object type, an event table for each event type, and E2O (Event-to-Object) and O2O (Object-to-Object) relations tables.
+  - An object table for each object type, an event table for each event type, and E2O (Event-to-Object) and O2O (Object-to-Object) relations tables.
   - csv_to_sqlite.ipynb: A Jupyter notebook detailing the process of transforming CSV files into an OCEL log in SQLite Database format.
   - CSVs_to_OCEL_log_schema.ipynb: A Jupyter notebook for data preprocessing to generate the OCEL log following the _Dirigo_ schema.
+
+### Simulation Instructions for the Cargo Pickup Process
+- First, Run the simulation on object_initialisation.cpn in the object_initialise folder.
+- Next, Run the simulation on truck_bp.cpn in the CargoPickupBP folder.
+
 
 ### 2. OCEL Log:
 - Includes the generated OCEL log representation for the cargo pickup process, consisting of the following files: OCEL_Event.csv, OCEL_Cargo.csv, OCEL_Truck.csv, OCEL_PickupPlan.csv, OCEL_O2O.csv, and OCEL_E2O.csv.
