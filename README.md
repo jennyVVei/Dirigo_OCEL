@@ -1,6 +1,6 @@
 # _Dirigo_: A Method to Extract Event Logs for Object-Centric Processes
 
-This repository contains the supplementary materials for the paper **_Dirigo: A Method to Extract Event Logs for Object-Centric Processes_**. In this work, we introduce **Dirigo**, a novel method for generating event logs tailored for object-centric processes. Dirigo leverages **Object-Role Modeling (ORM)**, a conceptual data modeling technique, to accurately define the data structure required in **Object-Centric Event Logs (OCEL)**.
+This repository contains the supplementary materials for the paper **_Dirigo: A Method to Extract Event Logs for Object-Centric Processes_**. In this work, we introduce **Dirigo**, a novel method for generating event logs tailored for object-centric processes. Dirigo leverages **Object-Role Modeling (ORM)**, a conceptual data modeling technique, to accurately define the data structure required in **Object-Centric Event Logs (OCEL 2.0)**.
 
 To demonstrate the practical applicability of Dirigo, we applied it to a real-world use case involving:
 - 100 pickup plans
